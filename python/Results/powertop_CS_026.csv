@@ -1,0 +1,502 @@
+____________________________________________________________________
+			P o w e r T O P
+
+____________________________________________________________________
+ *  *  *   System Information   *  *  *
+
+PowerTOP Version;2.13 ran at Fri Aug 20 21:05:45 2021
+
+Kernel Version;Linux version 5.4.128-15728-g686e2baf4c9b
+System Name;GoogleLalalarev0
+CPU Information;2 Intel(R) Celeron(R) N4500 @ 1.10GHz
+OS Information;
+
+Target: 1 units/s;System:  206.8 wakeup/s;CPU:  5.5% usage;GPU: 0 ops/s;GFX: 0 wakeups/s;VFS: 0 ops/s;
+
+____________________________________________________________________
+ *  *  *   Top 10 Power Consumers   *  *  *
+
+Usage;Events/s;Category;Description;PW Estimate
+  3.4%; 93.0;Process;[PID 1698] /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=1604 --enable-crash-reporter=e619;  420 mW  
+  0.2%; 37.0;Timer;tick_sched_timer;  149 mW  
+  0.1%; 18.6;Interrupt;[7] sched(softirq); 75.5 mW  
+  0.0%; 14.2;Process;[PID 10] [rcu_preempt]; 56.5 mW  
+  0.1%;  8.0;Process;[PID 1801] esif_ufd -n ; 32.9 mW  
+  0.0%;  6.1;kWork;gc_worker; 24.5 mW  
+  0.3%;  4.1;Process;[PID 1599] /opt/google/chrome/chrome --use-gl=egl --enable-native-gpu-memory-buffers --enable-webgl-image-chromium --enable-fea; 20.1 mW  
+  0.2%;  2.9;Process;[PID 102] [irq/105-chromeo]; 14.6 mW  
+  0.1%;  2.1;Process;[PID 1623] /opt/google/chrome/chrome --use-gl=egl --enable-native-gpu-memory-buffers --enable-webgl-image-chromium --enable-fea; 9.68 mW  
+  0.1%;  2.0;Process;[PID 2620] /usr/bin/anomaly_detector ; 9.02 mW  
+
+____________________________________________________________________
+ *  *  *   Processor Idle State Report   *  *  *
+
+Package;0
+C2 (pc2); 10.1%
+C3 (pc3);  0.0%
+C6 (pc6);  0.6%
+C7 (pc7);  2.4%
+C8 (pc8); 10.5%
+C9 (pc9);  0.0%
+C10 (pc10); 65.1%
+;
+;
+;
+
+;Core 0
+C3 (cc3);  0.0%
+C6 (cc6); 95.1%
+C7 (cc7); 93.2%
+;Core 1
+C3 (cc3);  0.0%
+C6 (cc6); 96.0%
+C7 (cc7); 94.2%
+;GPU 154546736
+Powered On;  0.2%
+RC6; 99.8%
+RC6p;  0.0%
+RC6pp;  0.0%
+
+CPU;0
+C0 active;  2.8%;
+POLL;  0.0%;   0.0 ms
+C1_ACPI;  0.9%;   0.4 ms
+C2_ACPI;  3.3%;   1.5 ms
+C3_ACPI; 92.0%;  13.2 ms
+;
+;
+;
+;
+;
+CPU;1
+C0 active;  2.5%;
+POLL;  0.0%;   0.0 ms
+C1_ACPI;  0.6%;   0.4 ms
+C2_ACPI;  2.1%;   1.5 ms
+C3_ACPI; 94.0%;  14.2 ms
+;
+;
+;
+;
+;
+;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+
+____________________________________________________________________
+ *  *  *   Processor Frequency Report   *  *  *
+
+Package;0
+Idle;
+;
+;
+;
+
+;Core 0
+Idle;
+;Core 1
+Idle;
+;
+;
+;
+
+CPU 0
+Average;   847 MHz
+Idle;
+CPU 1
+Average;   886 MHz
+Idle;
+
+;
+;
+;
+;
+;
+
+____________________________________________________________________
+ *  *  *   Overview of Software Power Consumers   *  *  *
+
+Usage;Wakeups/s;GPU ops/s;Disk IO/s;GFX Wakeups/s;Category;Description;PW Estimate
+ 33.7 ms/s; 93.0;;;;Process;[PID 1698] /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=1604 --enable-crash-reporter=e619;  420 mW  
+  2.0 ms/s; 37.0;;;;Timer;tick_sched_timer;  149 mW  
+  1.2 ms/s; 18.6;;;;Interrupt;[7] sched(softirq); 75.5 mW  
+290.5 us/s; 14.2;;;;Process;[PID 10] [rcu_preempt]; 56.5 mW  
+  0.8 ms/s;  8.0;;;;Process;[PID 1801] esif_ufd -n ; 32.9 mW  
+200.0 us/s;  6.1;;;;kWork;gc_worker; 24.5 mW  
+  2.6 ms/s;  4.1;;;;Process;[PID 1599] /opt/google/chrome/chrome --use-gl=egl --enable-native-gpu-memory-buffers --enable-webgl-image-chromium --enable-fea; 20.1 mW  
+  2.1 ms/s;  2.9;;;;Process;[PID 102] [irq/105-chromeo]; 14.6 mW  
+  0.8 ms/s;  2.1;;;;Process;[PID 1623] /opt/google/chrome/chrome --use-gl=egl --enable-native-gpu-memory-buffers --enable-webgl-image-chromium --enable-fea; 9.68 mW  
+633.6 us/s;  2.0;;;;Process;[PID 2620] /usr/bin/anomaly_detector ; 9.02 mW  
+  2.6 ms/s;  0.8;;;;Timer;hrtimer_wakeup; 7.29 mW  
+  0.9 ms/s;  1.5;;;;Process;[PID 2945] /usr/bin/metrics_daemon --nodaemon ; 7.23 mW  
+246.9 us/s;  1.5;;;;Process;[PID 2720] /usr/bin/missived ; 6.18 mW  
+367.0 us/s;  1.2;;;;Process;[PID 2592] /usr/bin/resourced ; 5.31 mW  
+ 53.3 us/s;  1.0;;;;kWork;pci_pme_list_scan; 3.90 mW  
+ 83.8 us/s;  0.9;;;;Process;[PID 27724] powertop -t 30 -C/home/python/Results/powertop_CS_026.csv ; 3.82 mW  
+312.3 us/s;  0.8;;;;Process;[PID 15676] /usr/bin/powerd --log_dir=/var/log/power_manager --run_dir=/run/power_manager/power --vmodule= ; 3.78 mW  
+  7.9 us/s;  0.9;;;;kWork;vmstat_shepherd; 3.70 mW  
+ 14.6 us/s;  0.9;;;;Timer;watchdog_timer_fn; 3.45 mW  
+514.6 us/s;  0.6;;;;Process;[PID 1572] session_manager ; 3.30 mW  
+590.5 us/s;  0.6;;;;Process;[PID 2639] /usr/bin/missived ; 3.29 mW  
+ 13.9 us/s;  0.6;;;;Process;[PID 535] [irq/124-iwlwifi]; 2.26 mW  
+511.9 us/s;  0.3;;;;Process;[PID 1652] /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=14150610362603569173,2355332081591229880,131072 --; 2.11 mW  
+  5.5 us/s;  0.5;;;;Timer;sched_rt_period_timer; 2.11 mW  
+252.1 us/s;  0.4;;;;Process;[PID 2721] /usr/bin/missived ; 1.97 mW  
+155.3 us/s;  0.4;;;;Process;[PID 1679] /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=14150610362603569173,2355332081591229880,131072 --; 1.95 mW  
+  1.2 ms/s;;;;;Process;[PID 665] dbus-daemon --system --fork ; 1.95 mW  
+ 40.6 us/s;  0.5;;;;Process;[PID 2952] /usr/bin/memd ; 1.91 mW  
+  4.3 us/s;  0.5;;;;kWork;psi_avgs_work; 1.85 mW  
+  1.7 us/s;  0.5;;;;Timer;intel_uncore_fw_release_timer; 1.85 mW  
+  8.1 us/s;  0.4;;;;Process;[PID 536] [irq/125-iwlwifi]; 1.46 mW  
+158.6 us/s; 0.30;;;;Process;[PID 1157] /usr/bin/shill --log-level=0 --log-scopes= --vmodule=object_proxy=0,dbus_object=0,bus=0 --devices-blocked=eth_test,f; 1.43 mW  
+271.0 us/s; 0.23;;;;Process;[PID 2733] /usr/bin/missived ; 1.34 mW  
+  0.7 ms/s;;;;;Interrupt;[1] timer(softirq); 1.11 mW  
+ 35.1 us/s; 0.20;;;;Timer;posix_timer_fn;  845 uW  
+ 32.7 us/s; 0.17;;;;Process;[PID 1851] /usr/bin/patchpaneld --nd_proxy_fd=8 ;  709 uW  
+178.7 us/s; 0.10;;;;Process;[PID 2996] /usr/bin/tlsdated -- /usr/bin/tlsdate -v -C /usr/share/chromeos-ca-certificates -l ;  674 uW  
+  6.3 us/s; 0.17;;;;kWork;engine_retire;  668 uW  
+  0.9 us/s; 0.17;;;;kWork;rps_work;  660 uW  
+  0.4 us/s; 0.17;;;;kWork;blk_mq_requeue_work;  659 uW  
+  6.1 us/s; 0.13;;;;kWork;handle_update;  536 uW  
+  2.1 us/s; 0.13;;;;kWork;free_work;  530 uW  
+ 80.3 us/s; 0.10;;;;Process;[PID 1676] /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=14150610362603569173,2355332081591229880,131072 --;  520 uW  
+ 11.1 us/s; 0.10;;;;Process;[PID 721] /usr/sbin/wpa_supplicant -u -s -O/run/wpa_supplicant ;  412 uW  
+  8.2 us/s; 0.10;;;;kWork;blk_mq_run_work_fn;  408 uW  
+  2.4 us/s; 0.10;;;;Process;[PID 537] [irq/126-iwlwifi];  399 uW  
+  2.3 us/s; 0.10;;;;kWork;__intel_wakeref_put_work;  399 uW  
+  0.6 us/s; 0.10;;;;kWork;blk_mq_timeout_work;  396 uW  
+  0.5 us/s; 0.10;;;;kWork;pm_runtime_work;  396 uW  
+206.8 us/s;;;;;Interrupt;[9] RCU(softirq);  323 uW  
+182.9 us/s;;;;;Timer;process_timeout;  285 uW  
+ 10.7 us/s; 0.07;;;;Process;[PID 28] [khugepaged];  280 uW  
+  8.6 us/s; 0.07;;;;Process;[PID 27733] powerd;  277 uW  
+  7.8 us/s; 0.07;;;;Process;[PID 27744] powerd;  275 uW  
+  7.3 us/s; 0.07;;;;kWork;kcryptd_crypt;  275 uW  
+ 89.7 us/s; 0.03;;;;Interrupt;[3] net_rx(softirq);  272 uW  
+  5.3 us/s; 0.07;;;;Process;[PID 27743] powerd;  271 uW  
+  4.6 us/s; 0.07;;;;Process;[PID 21562] /opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=14150;  270 uW  
+  2.0 us/s; 0.07;;;;kWork;intel_display_power_put_async_w;  266 uW  
+  0.0 us/s; 0.07;;;;kWork;cros_ec_console_log_work;  263 uW  
+ 48.4 us/s; 0.03;;;;kWork;delayed_fput;  207 uW  
+130.1 us/s;;;;;Timer;delayed_work_timer_fn;  203 uW  
+115.7 us/s;;;;;Process;[PID 26636] [kworker/1:0];  181 uW  
+ 20.5 us/s; 0.03;;;;kWork;__i915_gem_free_work;  164 uW  
+ 20.4 us/s; 0.03;;;;Process;[PID 2085] update_engine ;  163 uW  
+ 11.1 us/s; 0.03;;;;Process;[PID 1905] /usr/sbin/dnsproxyd ;  149 uW  
+  8.3 us/s; 0.03;;;;Process;[PID 27738] powerd;  145 uW  
+  8.3 us/s; 0.03;;;;Process;[PID 27737] powerd;  145 uW  
+  8.1 us/s; 0.03;;;;Process;[PID 27739] powerd;  144 uW  
+  7.8 us/s; 0.03;;;;Process;[PID 27736] powerd;  144 uW  
+  7.8 us/s; 0.03;;;;Process;[PID 27672] ThreadPoolForeg;  144 uW  
+  7.7 us/s; 0.03;;;;Process;[PID 276] [loop0];  144 uW  
+  7.6 us/s; 0.03;;;;Process;[PID 27742] powerd;  143 uW  
+  7.4 us/s; 0.03;;;;Process;[PID 27745] powerd;  143 uW  
+  7.1 us/s; 0.03;;;;Process;[PID 27732] powerd;  143 uW  
+  6.9 us/s; 0.03;;;;Process;[PID 27734] powerd;  142 uW  
+  6.1 us/s; 0.03;;;;Process;[PID 301] [jbd2/dm-0-8];  141 uW  
+  6.0 us/s; 0.03;;;;Process;[PID 27735] powerd;  141 uW  
+  5.2 us/s; 0.03;;;;Process;[PID 178] [jbd2/mmcblk1p1-];  140 uW  
+  4.6 us/s; 0.03;;;;Process;[PID 2848] /usr/bin/traced --set-socket-permissions traced-producer:0660:traced-consumer:0660 ;  139 uW  
+  4.5 us/s; 0.03;;;;Process;[PID 25119] /opt/google/chrome/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=14150;  139 uW  
+  3.8 us/s; 0.03;;;;Process;[PID 2882] /usr/bin/traced_probes ;  137 uW  
+  3.2 us/s; 0.03;;;;Interrupt;[4] block(softirq);  137 uW  
+  2.6 us/s; 0.03;;;;Process;[PID 2001] /usr/bin/cros_healthd ;  136 uW  
+  1.8 us/s; 0.03;;;;Process;[PID 9] [ksoftirqd/0];  134 uW  
+  1.7 us/s; 0.03;;;;kWork;dio_aio_complete_work;  134 uW  
+  0.9 us/s; 0.03;;;;Process;[PID 16] [ksoftirqd/1];  133 uW  
+  0.9 us/s; 0.03;;;;kWork;check_corruption;  133 uW  
+  0.5 us/s; 0.03;;;;kWork;check_lifetime;  132 uW  
+  0.5 us/s; 0.03;;;;kWork;neigh_periodic_work;  132 uW  
+  0.3 us/s; 0.03;;;;kWork;work_fn;  132 uW  
+  0.1 us/s; 0.03;;;;kWork;dm_wq_work;  132 uW  
+ 78.2 us/s;;;;;Timer;clocksource_watchdog;  122 uW  
+ 72.4 us/s;;;;;Process;[PID 27188] [kworker/0:0];  113 uW  
+ 49.7 us/s;;;;;Process;[PID 27594] [kworker/1:1H];    0 mW  
+ 32.2 us/s;;;;;Process;[PID 453] /sbin/auditd -n -c /etc/audit ;    0 mW  
+ 29.2 us/s;;;;;Process;[PID 27522] [kworker/1:1];    0 mW  
+ 28.8 us/s;;;;;Process;[PID 1794] /usr/sbin/secanomalyd ;    0 mW  
+ 23.6 us/s;;;;;Timer;timerfd_tmrproc;    0 mW  
+ 14.2 us/s;;;;;Interrupt;[16] i2c_designware.0;    0 mW  
+
+
+The system baseline power is estimated at:  903 m W;
+____________________________________________________________________
+ *  *  *   Device Power Report   *  *  *
+
+Usage;Device Name;PW Estimate
+  5.5%;CPU misc;  773 mW   
+  5.5%;CPU core;  130 mW   
+  0.0%;Display backlight;    0 mW   
+100.0%;runtime-dw-apb-uart.5;           
+100.0%;PCI Device: Intel Corporation Device 4e55;           
+100.0%;PCI Device: Intel Corporation Device 4def;           
+100.0%;PCI Device: Intel Corporation Device 4e22;           
+100.0%;Radio device: iwlwifi;           
+100.0%;Radio device: btusb;           
+100.0%;PCI Device: Intel Corporation Device 4da4;           
+100.0%;PCI Device: Intel Corporation Device 4dc7;           
+100.0%;PCI Device: Intel Corporation Device 4df0;           
+100.0%;PCI Device: Intel Corporation Device 4e03;           
+100.0%;PCI Device: Intel Corporation Device 4d87;           
+  1.1 pkts/s;Network interface: wlan0 (iwlwifi);           
+  0.3%;PCI Device: Intel Corporation Device 4dc4;           
+  0.0%;PCI Device: Intel Corporation Device 4df8;           
+  0.0%;PCI Device: Intel Corporation Device 4de9;           
+  0.0%;PCI Device: Intel Corporation Device 4e11;           
+  0.0 pkts/s;nic:arc_ns1;           
+  0.0%;PCI Device: Intel Corporation Device 4de0;           
+  0.0%;PCI Device: Intel Corporation Device 4daa;           
+  0.0 pkts/s;nic:arc_ns0;           
+  0.0%;PCI Device: Intel Corporation Device 4dc5;           
+  0.0%;PCI Device: Intel Corporation Device 4da8;           
+  0.0%;PCI Device: Intel Corporation Device 4dc8;           
+  0.0%;Audio codec hwC0D2: Intel;           
+  0.0%;PCI Device: Intel Corporation Device 4dea;           
+  0.0%;PCI Device: Intel Corporation Device 4de8;           
+  0.0%;USB device: HD User Facing (SunplusIT Inc);           
+  0.0%;USB device: xHCI Host Controller;           
+  0.0%;USB device: usb-device-8087-0026;           
+  0.0%;PCI Device: Intel Corporation Device 4ded;           
+  0.0%;PCI Device: Intel Corporation Device 4e19;           
+  0.0%;PCI Device: Intel Corporation Device 4deb;           
+  0.0%;runtime-cros-usbpd-logger.4.auto;           
+  0.0%;runtime-i2c_designware.1;           
+  0.0%;runtime-alarmtimer.0.auto;           
+  0.0%;runtime-chromeos_acpi;           
+  0.0%;runtime-PNP0C0D:00;           
+  0.0%;runtime-cros-ec-ring.14.auto;           
+  0.0%;runtime-PNP0C09:00;           
+  0.0%;runtime-PNP0C0A:00;           
+  0.0%;runtime-cros-ec-dev.1.auto;           
+  0.0%;runtime-idma64.7;           
+  0.0%;runtime-INT34C8:00;           
+  0.0%;runtime-ACPI0003:00;           
+  0.0%;runtime-BOOT0000:00;           
+  0.0%;runtime-INT33A1:00;           
+  0.0%;runtime-cros-ec-pchg.10.auto;           
+  0.0%;runtime-cros-ec-accel.12.auto;           
+  0.0%;runtime-jsl_rt5682_rt1015;           
+  0.0%;runtime-GOOG0016:00;           
+  0.0%;runtime-platform-framebuffer.0;           
+  0.0%;USB device: xHCI Host Controller;           
+  0.0%;runtime-microcode;           
+  0.0%;runtime-cros-ec-pd-update.9.auto;           
+  0.0%;runtime-snd-soc-dummy;           
+  0.0%;runtime-cros-ec-sensorhub.2.auto;           
+  0.0%;runtime-cros-ec-accel.11.auto;           
+  0.0%;runtime-idma64.3;           
+  0.0%;runtime-GOOG9999:00;           
+  0.0%;runtime-intel_rapl_msr.0;           
+  0.0%;runtime-INT3403:01;           
+  0.0%;runtime-i2c_designware.4;           
+  0.0%;runtime-idma64.1;           
+  0.0%;runtime-cros-usbpd-charger.3.auto;           
+  0.0%;runtime-ACPI0008:00;           
+  0.0%;runtime-gsmi;           
+  0.0%;runtime-INTC1026:00;           
+  0.0%;runtime-INT0800:00;           
+  0.0%;runtime-i2c_designware.2;           
+  0.0%;runtime-cros-ec-chardev.5.auto;           
+  0.0%;runtime-pxa2xx-spi.7;           
+  0.0%;runtime-i2c_designware.0;           
+  0.0%;runtime-dmic-codec;           
+  0.0%;runtime-GOOG0004:00;           
+  0.0%;runtime-cros-ec-lid-angle.15.auto;           
+  0.0%;runtime-coretemp.0;           
+  0.0%;runtime-regulatory.0;           
+  0.0%;runtime-idma64.6;           
+  0.0%;runtime-cros-ec-gyro.13.auto;           
+  0.0%;runtime-dw-apb-uart.6;           
+  0.0%;runtime-cros-ec-sysfs.8.auto;           
+  0.0%;runtime-MSFT0101:00;           
+  0.0%;runtime-PNP0C04:00;           
+  0.0%;runtime-ramoops.0;           
+  0.0%;runtime-INT3403:02;           
+  0.0%;runtime-serial8250;           
+  0.0%;runtime-i8042;           
+  0.0%;runtime-GOOG0014:00;           
+  0.0%;runtime-idma64.2;           
+  0.0%;runtime-cros-ec-pd-sysfs.7.auto;           
+  0.0%;runtime-cros-ec-debugfs.6.auto;           
+  0.0%;runtime-INT3400:00;           
+  0.0%;runtime-i2c_designware.3;           
+  0.0%;runtime-GOOG0006:00;           
+  0.0%;runtime-GOOG0003:00;           
+  0.0%;runtime-vgem;           
+  0.0%;runtime-idma64.0;           
+  0.0%;I2C Adapter (i2c-3): i915 gmbus tc1;           
+  0.0%;I2C Adapter (i2c-10): AUX B/port B;           
+  0.0%;I2C Adapter (i2c-1): i915 gmbus dpb;           
+  0.0%;I2C Device (i2c-OVTI5675:00): OVTI5675:00;           
+  0.0%;I2C Device (i2c-ELAN0001:00): ELAN0001:00;           
+  0.0%;I2C Device (i2c-10EC5682:00): 10EC5682:00;           
+  0.0%;I2C Device (i2c-10EC1015:00): 10EC1015:00;           
+  0.0%;I2C Device (i2c-PRP0001:00): dw9714;           
+  0.0%;I2C Adapter (i2c-8): i915 gmbus tc6;           
+  0.0%;I2C Adapter (i2c-15): Synopsys DesignWare I2C adapter;           
+  0.0%;I2C Adapter (i2c-6): i915 gmbus tc4;           
+  0.0%;I2C Adapter (i2c-13): Synopsys DesignWare I2C adapter;           
+  0.0%;I2C Adapter (i2c-4): i915 gmbus tc2;           
+  0.0%;I2C Device (i2c-ELAN0000:00): ELAN0000:00;           
+  0.0%;I2C Adapter (i2c-11): AUX C/port C;           
+  0.0%;I2C Adapter (i2c-2): i915 gmbus dpc;           
+  0.0%;I2C Adapter (i2c-0): i915 gmbus dpa;           
+  0.0%;I2C Device (i2c-10EC1015:01): 10EC1015:01;           
+  0.0%;I2C Device (i2c-PRP0001:01): 24c08;           
+  0.0%;I2C Adapter (i2c-9): AUX A/port A;           
+  0.0%;I2C Adapter (i2c-16): Synopsys DesignWare I2C adapter;           
+  0.0%;I2C Adapter (i2c-7): i915 gmbus tc5;           
+  0.0%;I2C Adapter (i2c-14): Synopsys DesignWare I2C adapter;           
+  0.0%;I2C Adapter (i2c-5): i915 gmbus tc3;           
+  0.0%;I2C Adapter (i2c-12): Synopsys DesignWare I2C adapter;           
+____________________________________________________________________
+ *  *  *   Process Device Activity   *  *  *
+
+Process;Device
+udevd;/dev/kmsg
+frecon;/dev/dri/card0
+;/dev/input/event2
+;/dev/kmsg
+;/dev/kmsg
+login;/dev/dri/card0
+;/dev/input/event2
+agetty;/dev/dri/card0
+;/dev/input/event2
+;/dev/dri/card0
+;/dev/input/event2
+trunksd;/dev/tpm0
+wpa_supplicant;/dev/rfkill
+chrome;/dev/input/event0
+;/dev/input/event1
+;/dev/input/event2
+;/dev/input/event3
+;/dev/input/event4
+;/dev/input/event5
+;/dev/input/event6
+;/dev/input/event7
+;/dev/input/event8
+;/dev/input/event9
+;/dev/dri/card0
+;/dev/dri/renderD128
+;/dev/dri/renderD128
+;/dev/dri/renderD128
+;/dev/dri/renderD128
+;/dev/dri/renderD128
+;/dev/dri/renderD128
+;/dev/dri/renderD128
+;/dev/dri/renderD128
+;/dev/dri/renderD128
+;/dev/dri/renderD128
+cras;/dev/input/event6
+;/dev/input/event6
+;/dev/input/event7
+;/dev/input/event8
+;/dev/input/event9
+;/dev/snd/controlC0
+;/dev/snd/controlC0
+;/dev/snd/controlC0
+cros_camera_ser;/dev/dri/renderD128
+memd;/dev/chromeos-low-mem
+tlsdated-setter;/dev/rtc
+bash;/dev/dri/card0
+;/dev/input/event2
+powerd;/dev/input/event0
+;/dev/input/event2
+;/dev/input/event3
+
+____________________________________________________________________
+ *  *  *   AHCI ALPM Residency Statistics - Not supported on this macine   *  *  *
+
+____________________________________________________________________
+ *  *  *   Software Settings in Need of Tuning   *  *  *
+
+Description;Script
+NMI watchdog should be turned off;echo '0' > '/proc/sys/kernel/nmi_watchdog';
+VM writeback timeout;echo '1500' > '/proc/sys/vm/dirty_writeback_centisecs';
+Runtime PM for I2C Adapter i2c-5 (i915 gmbus tc3);echo 'auto' > '/sys/bus/i2c/devices/i2c-5/device/power/control';
+Runtime PM for I2C Adapter i2c-7 (i915 gmbus tc5);echo 'auto' > '/sys/bus/i2c/devices/i2c-7/device/power/control';
+Runtime PM for I2C Adapter i2c-0 (i915 gmbus dpa);echo 'auto' > '/sys/bus/i2c/devices/i2c-0/device/power/control';
+Runtime PM for I2C Adapter i2c-2 (i915 gmbus dpc);echo 'auto' > '/sys/bus/i2c/devices/i2c-2/device/power/control';
+Runtime PM for I2C Adapter i2c-4 (i915 gmbus tc2);echo 'auto' > '/sys/bus/i2c/devices/i2c-4/device/power/control';
+Runtime PM for I2C Adapter i2c-6 (i915 gmbus tc4);echo 'auto' > '/sys/bus/i2c/devices/i2c-6/device/power/control';
+Runtime PM for I2C Adapter i2c-8 (i915 gmbus tc6);echo 'auto' > '/sys/bus/i2c/devices/i2c-8/device/power/control';
+Runtime PM for I2C Adapter i2c-1 (i915 gmbus dpb);echo 'auto' > '/sys/bus/i2c/devices/i2c-1/device/power/control';
+Runtime PM for I2C Adapter i2c-3 (i915 gmbus tc1);echo 'auto' > '/sys/bus/i2c/devices/i2c-3/device/power/control';
+Runtime PM for PCI Device Intel Corporation Device 4def;echo 'auto' > '/sys/bus/pci/devices/0000:00:14.2/power/control';
+Runtime PM for PCI Device Intel Corporation Device 4d87;echo 'auto' > '/sys/bus/pci/devices/0000:00:1f.0/power/control';
+Runtime PM for PCI Device Intel Corporation Device 4da4;echo 'auto' > '/sys/bus/pci/devices/0000:00:1f.5/power/control';
+Runtime PM for PCI Device Intel Corporation Device 4df0;echo 'auto' > '/sys/bus/pci/devices/0000:00:14.3/power/control';
+Runtime PM for PCI Device Intel Corporation Device 4e03;echo 'auto' > '/sys/bus/pci/devices/0000:00:04.0/power/control';
+Runtime PM for PCI Device Intel Corporation Device 4e55;echo 'auto' > '/sys/bus/pci/devices/0000:00:02.0/power/control';
+Runtime PM for PCI Device Intel Corporation Device 4e22;echo 'auto' > '/sys/bus/pci/devices/0000:00:00.0/power/control';
+____________________________________________________________________
+ *  *  *   Untunable Software Issues   *  *  *
+
+Description
+I2C Adapter i2c-10 has no runtime power management
+I2C Device i2c-ELAN0001:00 has no runtime power management
+I2C Device i2c-10EC5682:00 has no runtime power management
+I2C Device i2c-10EC1015:00 has no runtime power management
+I2C Device i2c-ELAN0000:00 has no runtime power management
+I2C Adapter i2c-11 has no runtime power management
+I2C Device i2c-10EC1015:01 has no runtime power management
+I2C Adapter i2c-9 has no runtime power management
+____________________________________________________________________
+ *  *  *   Optimal Tuned Software Settings   *  *  *
+
+Description
+Wireless Power Saving for interface wlan0
+Bluetooth device interface status
+Runtime PM for I2C Adapter i2c-14 (Synopsys DesignWare I2C adapter)
+I2C Device i2c-OVTI5675:00 has no runtime power management
+I2C Device i2c-PRP0001:00 has no runtime power management
+Runtime PM for I2C Adapter i2c-15 (Synopsys DesignWare I2C adapter)
+Runtime PM for I2C Adapter i2c-13 (Synopsys DesignWare I2C adapter)
+Autosuspend for USB device HD User Facing [SunplusIT Inc]
+Autosuspend for USB device xHCI Host Controller [usb2]
+I2C Device i2c-PRP0001:01 has no runtime power management
+Runtime PM for I2C Adapter i2c-16 (Synopsys DesignWare I2C adapter)
+Autosuspend for unknown USB device 1-8 (8087:0026)
+Runtime PM for I2C Adapter i2c-12 (Synopsys DesignWare I2C adapter)
+Autosuspend for USB device xHCI Host Controller [usb1]
+Runtime PM for PCI Device Intel Corporation Device 4de8
+Runtime PM for PCI Device Intel Corporation Device 4dc4
+Runtime PM for PCI Device Intel Corporation Device 4dc8
+Runtime PM for PCI Device Intel Corporation Device 4da8
+Runtime PM for PCI Device Intel Corporation Device 4ded
+Runtime PM for PCI Device Intel Corporation Device 4deb
+Runtime PM for PCI Device Intel Corporation Device 4dc5
+Runtime PM for PCI Device Intel Corporation Device 4dea
+Runtime PM for PCI Device Intel Corporation Device 4daa
+Runtime PM for PCI Device Intel Corporation Device 4de0
+Runtime PM for PCI Device Intel Corporation Device 4de9
+Runtime PM for PCI Device Intel Corporation Device 4df8
+Runtime PM for PCI Device Intel Corporation Device 4dc7
+Runtime PM for PCI Device Intel Corporation Device 4e19
+Runtime PM for PCI Device Intel Corporation Device 4e11
+
+____________________________________________________________________
+ *  *  *   Wake status of the devices   *  *  *
+
+Description;Script
+Wake-on-lan status for device wlan0;echo 'enabled' > '/sys/class/net/wlan0/device/power/wakeup';
+Wake status for USB device usb1;echo 'enabled' > '/sys/bus/usb/devices/usb1/power/wakeup';
+Wake status for USB device 1-8;echo 'enabled' > '/sys/bus/usb/devices/1-8/power/wakeup';
+Wake status for USB device usb2;echo 'enabled' > '/sys/bus/usb/devices/usb2/power/wakeup';

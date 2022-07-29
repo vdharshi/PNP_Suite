@@ -1,0 +1,10 @@
+import os
+import sys
+import csv
+import Global_Var
+def rdmsr(address,cpu=0):
+        with open('/dev/cpu/0/msr','rb')as f:
+         f.seek(address)
+         return struct.unpack('=Q',f.read(8))[0]
+
+print(rdmsr(0x1aa))

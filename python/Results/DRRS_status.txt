@@ -1,0 +1,8 @@
+
+CRTC 1:  eDP-1:
+
+	DRRS Supported: Yes
+		Busy_frontbuffer_bits: 0x0
+		DRRS_State: DRRS_LOW_RR
+		Vrefresh: 40
+		

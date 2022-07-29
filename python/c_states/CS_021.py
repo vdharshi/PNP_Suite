@@ -1,0 +1,62 @@
+#!/usr/bin/python3
+import os
+import csv
+import time
+import Global_Var
+print("Test Case ID CS_021: Platform should enter PC6, PC8 and PC10 C state while display is OFF for PSR Panel or non PSR panel")
+ctr=0
+print("RTC alarm wake event set after 1 minute")
+d=os.popen("echo `date '+%s' -d '+ 60 seconds'`").read()
+with open("/sys/class/rtc/rtc0/wakealarm",'w')as f:
+ f.write(d)
+os.popen("set_power_policy --ac_screen_off_delay=30 --battery_screen_off_delay=30").read()
+time.sleep(60)
+print("checking new package state PC8 and PC10 register value now")
+v=os.popen("cat /sys/kernel/debug/pmc_core/package_cstate_show | grep -i 'Package C6' | cut -f2 -d ':' | tr -d ' ' | tr -d '[[:space:]]'").read()
+x=os.popen("cat /sys/kernel/debug/pmc_core/package_cstate_show | grep -i 'Package C8' | cut -f2 -d ':' | tr -d ' ' | tr -d '[[:space:]]'").read()
+y=os.popen("cat /sys/kernel/debug/pmc_core/package_cstate_show | grep -i 'Package C10' | cut -f2 -d ':' | tr -d ' ' | tr -d '[[:space:]]'").read()
+print(f"value={v}")
+print(f"value={x}")
+print(f"value={y}")
+time.sleep(20)
+print("RTC alarm wake event set after 1 minute")
+d=os.popen("echo `date '+%s' -d '+ 60 seconds'`").read()
+with open("/sys/class/rtc/rtc0/wakealarm",'w')as f:
+ f.write(d)
+os.popen("set_power_policy --ac_screen_off_delay=30 --battery_screen_off_delay=30").read()
+time.sleep(60)
+print("checking new package state PC8 and PC10 register value now")
+v1=os.popen("cat /sys/kernel/debug/pmc_core/package_cstate_show | grep -i 'Package C6' | cut -f2 -d ':' | tr -d ' ' | tr -d '[[:space:]]'").read()
+x1=os.popen("cat /sys/kernel/debug/pmc_core/package_cstate_show | grep -i 'Package C8' | cut -f2 -d ':' | tr -d ' ' | tr -d '[[:space:]]'").read()
+y1=os.popen("cat /sys/kernel/debug/pmc_core/package_cstate_show | grep -i 'Package C10' | cut -f2 -d ':' | tr -d ' ' | tr -d '[[:space:]]'").read()
+print(f"value={v1}")
+print(f"value={x1}")
+print(f"value={y1}")
+time.sleep(5)
+if v1>v:
+ print("SUCCESS: PC6 counter is increasing as expected")
+ ctr=ctr+1
+else:
+ print("FAILURE: on Checking through MSR: PC6 counter is not increasing as expected")
+if x1>x:
+ print("SUCCESS: PC8 counter is increasing as expected")
+ ctr=ctr+1
+else:
+ print("FAILURE: on Checking through MSR: PC8 counter is not increasing as expected")
+if y1>y:
+ print("SUCCESS: PC10 counter is increasing as expected")
+ ctr=ctr+1
+else:
+ print("FAILURE: on Checking through MSR: PC10 counter is not increasing as expected")
+if ctr==3:
+ print("SUCCESS")
+ data=["c_states","CS_021","SUCCESS","Platform enters in PC6, PC8 and PC10 C state while display is OFF for PSR Panel or NON PSR Panel"]
+ with open(Global_Var.result_path/'A.csv', 'a') as f:
+    writer = csv.writer(f)
+    writer.writerow(data)
+else:
+ print("FAILURE")
+ data = ["c_states","CS_021","FAILURE","Platform don't enters in PC6, PC8 and PC10 C state while display is OFF for PSR Panel or NON PSR Panel"]
+ with open(Global_Var.result_path/'A.csv', 'a') as f:
+    writer = csv.writer(f)
+    writer.writerow(data)

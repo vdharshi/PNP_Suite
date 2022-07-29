@@ -1,0 +1,263 @@
+Device: Line Power
+  path:                    /sys/class/power_supply/CROS_USBPD_CHARGER1
+  online:                  yes
+  type:                    USB
+  enum type:               AC
+  voltage (V):             14.999
+  current (A):             Not available
+  max voltage (V):         15
+  max current (A):         3
+  active source:           CROS_USBPD_CHARGER1
+  available sources:       CROS_USBPD_CHARGER1* [0/0]
+  supports dual-role:      yes
+Device: Battery
+  path:                    /sys/class/power_supply/BAT0
+  vendor:                  333-2C-
+  model name:              GH02047
+  state:                   Fully charged
+  voltage (V):             7.678
+  energy (Wh):             44.198
+  energy rate (W):         0
+  current (A):             0
+  charge (Ah):             5.74
+  full charge (Ah):        5.807
+  full charge design (Ah): 6.15
+  percentage:              98.8462
+  display percentage:      100
+  technology:              Li-ion
+Device: Line Power
+  path:                    /sys/class/power_supply/CROS_USBPD_CHARGER1
+  online:                  yes
+  type:                    USB
+  enum type:               AC
+  voltage (V):             15.186
+  current (A):             Not available
+  max voltage (V):         15
+  max current (A):         3
+  active source:           CROS_USBPD_CHARGER1
+  available sources:       CROS_USBPD_CHARGER1* [0/0]
+  supports dual-role:      yes
+Device: Battery
+  path:                    /sys/class/power_supply/BAT0
+  vendor:                  333-2C-
+  model name:              GH02047
+  state:                   Fully charged
+  voltage (V):             7.68
+  energy (Wh):             44.198
+  energy rate (W):         0
+  current (A):             0
+  charge (Ah):             5.74
+  full charge (Ah):        5.807
+  full charge design (Ah): 6.15
+  percentage:              98.8462
+  display percentage:      100
+  technology:              Li-ion
+Device: Line Power
+  path:                    /sys/class/power_supply/CROS_USBPD_CHARGER1
+  online:                  yes
+  type:                    USB
+  enum type:               AC
+  voltage (V):             15.069
+  current (A):             Not available
+  max voltage (V):         15
+  max current (A):         3
+  active source:           CROS_USBPD_CHARGER1
+  available sources:       CROS_USBPD_CHARGER1* [0/0]
+  supports dual-role:      yes
+Device: Battery
+  path:                    /sys/class/power_supply/BAT0
+  vendor:                  333-2C-
+  model name:              GH02047
+  state:                   Fully charged
+  voltage (V):             7.678
+  energy (Wh):             44.198
+  energy rate (W):         0
+  current (A):             0
+  charge (Ah):             5.74
+  full charge (Ah):        5.807
+  full charge design (Ah): 6.15
+  percentage:              98.8462
+  display percentage:      100
+  technology:              Li-ion
+Device: Line Power
+  path:                    /sys/class/power_supply/CROS_USBPD_CHARGER1
+  online:                  yes
+  type:                    USB
+  enum type:               AC
+  voltage (V):             15.046
+  current (A):             Not available
+  max voltage (V):         15
+  max current (A):         3
+  active source:           CROS_USBPD_CHARGER1
+  available sources:       CROS_USBPD_CHARGER1* [0/0]
+  supports dual-role:      yes
+Device: Battery
+  path:                    /sys/class/power_supply/BAT0
+  vendor:                  333-2C-
+  model name:              GH02047
+  state:                   Fully charged
+  voltage (V):             7.678
+  energy (Wh):             44.198
+  energy rate (W):         0
+  current (A):             0
+  charge (Ah):             5.74
+  full charge (Ah):        5.807
+  full charge design (Ah): 6.15
+  percentage:              98.8462
+  display percentage:      100
+  technology:              Li-ion
+Device: Line Power
+  path:                    /sys/class/power_supply/CROS_USBPD_CHARGER1
+  online:                  yes
+  type:                    USB
+  enum type:               AC
+  voltage (V):             15.139
+  current (A):             Not available
+  max voltage (V):         15
+  max current (A):         3
+  active source:           CROS_USBPD_CHARGER1
+  available sources:       CROS_USBPD_CHARGER1* [0/0]
+  supports dual-role:      yes
+Device: Battery
+  path:                    /sys/class/power_supply/BAT0
+  vendor:                  333-2C-
+  model name:              GH02047
+  state:                   Fully charged
+  voltage (V):             7.678
+  energy (Wh):             44.198
+  energy rate (W):         0
+  current (A):             0
+  charge (Ah):             5.74
+  full charge (Ah):        5.807
+  full charge design (Ah): 6.15
+  percentage:              98.8462
+  display percentage:      100
+  technology:              Li-ion
+Device: Line Power
+  path:                    /sys/class/power_supply/CROS_USBPD_CHARGER1
+  online:                  yes
+  type:                    USB
+  enum type:               AC
+  voltage (V):             15.139
+  current (A):             Not available
+  max voltage (V):         15
+  max current (A):         3
+  active source:           CROS_USBPD_CHARGER1
+  available sources:       CROS_USBPD_CHARGER1* [0/0]
+  supports dual-role:      yes
+Device: Battery
+  path:                    /sys/class/power_supply/BAT0
+  vendor:                  333-2C-
+  model name:              GH02047
+  state:                   Fully charged
+  voltage (V):             7.678
+  energy (Wh):             44.198
+  energy rate (W):         0
+  current (A):             0
+  charge (Ah):             5.74
+  full charge (Ah):        5.807
+  full charge design (Ah): 6.15
+  percentage:              98.8462
+  display percentage:      100
+  technology:              Li-ion
+Device: Line Power
+  path:                    /sys/class/power_supply/CROS_USBPD_CHARGER1
+  online:                  yes
+  type:                    USB
+  enum type:               AC
+  voltage (V):             15.093
+  current (A):             Not available
+  max voltage (V):         15
+  max current (A):         3
+  active source:           CROS_USBPD_CHARGER1
+  available sources:       CROS_USBPD_CHARGER1* [0/0]
+  supports dual-role:      yes
+Device: Battery
+  path:                    /sys/class/power_supply/BAT0
+  vendor:                  333-2C-
+  model name:              GH02047
+  state:                   Fully charged
+  voltage (V):             7.678
+  energy (Wh):             44.198
+  energy rate (W):         0
+  current (A):             0
+  charge (Ah):             5.74
+  full charge (Ah):        5.807
+  full charge design (Ah): 6.15
+  percentage:              98.8462
+  display percentage:      100
+  technology:              Li-ion
+Device: Line Power
+  path:                    /sys/class/power_supply/CROS_USBPD_CHARGER1
+  online:                  yes
+  type:                    USB
+  enum type:               AC
+  voltage (V):             15.046
+  current (A):             Not available
+  max voltage (V):         15
+  max current (A):         3
+  active source:           CROS_USBPD_CHARGER1
+  available sources:       CROS_USBPD_CHARGER1* [0/0]
+  supports dual-role:      yes
+Device: Battery
+  path:                    /sys/class/power_supply/BAT0
+  vendor:                  333-2C-
+  model name:              GH02047
+  state:                   Fully charged
+  voltage (V):             7.678
+  energy (Wh):             44.198
+  energy rate (W):         0
+  current (A):             0
+  charge (Ah):             5.74
+  full charge (Ah):        5.807
+  full charge design (Ah): 6.15
+  percentage:              98.8462
+  display percentage:      100
+  technology:              Li-ion
+Device: Line Power
+  path:                    /sys/class/power_supply/CROS_USBPD_CHARGER1
+  online:                  yes
+  type:                    USB
+  enum type:               AC
+  voltage (V):             15.093
+  current (A):             Not available
+  max voltage (V):         15
+  max current (A):         3
+  active source:           CROS_USBPD_CHARGER1
+  available sources:       CROS_USBPD_CHARGER1* [0/0]
+  supports dual-role:      yes
+Device: Battery
+  path:                    /sys/class/power_supply/BAT0
+  vendor:                  333-2C-
+  model name: Device: Line Power
+  path:                    /sys/class/power_supply/CROS_USBPD_CHARGER0
+  online:                  yes
+  type:                    USB
+  enum type:               AC
+  voltage (V):             14.88
+  current (A):             Not available
+  max voltage (V):         15
+  max current (A):         3
+  active source:           CROS_USBPD_CHARGER0
+  available sources:       CROS_USBPD_CHARGER0* [0/0]
+  supports dual-role:      yes
+Device: Battery
+  path:                    /sys/class/power_supply/BAT0
+  vendor:                  Murata
+  model name:              AP18C4K
+  state:                   Fully charged
+  voltage (V):             12.793
+  energy (Wh):             44.4144
+  energy rate (W):         0
+  current (A):             0
+  charge (Ah):             3.896
+  full charge (Ah):        3.896
+  full charge design (Ah): 4.2
+  percentage:              100
+  display percentage:      100
+  technology:              Li-ion
+ion
+
+  Li-ion
+
+on

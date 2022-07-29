@@ -1,0 +1,67 @@
+ ,AGENT ID,EXPECTED STATUS,PMC STATUS REGISTER,REGISTER ADDRESS,FAB3 READ VALUE,FAB3 CURRENT STATUS
+POWER GATED IP BLOCK, ,0=PFET ON, , , ,0=PFET ON
+ , ,1=PFET OFF, , , ,1=PFET OFF
+PMC,0,1,pch.pmc.xram.hr_pfear0a,0xfe000590,0x00,0
+OPI_DMI,1,1, , , ,0
+SPI/eSPI,2,1, , , ,0
+XHCI,3,1, , , ,0
+SPA,4,1, , , ,0
+SPB,5,1, , , ,0
+SPC,6,1, , , ,0
+GBE,7,1, , , ,0
+SATA,8,1,pch.pmc.xram.hr_pfear0b,0xfe000591,0x00,0
+HDA_PGD0,9,1, , , ,0
+HDA_PGD1,10,1, , , ,0
+HDA_PGD2,11,1, , , ,0
+HDA_PGD3,12,1, , , ,0
+RSVD,13,1, , , ,0
+LPSS,14,1, , , ,0
+LPC,15,1, , , ,0
+SMB,16,1,pch.pmc.xram.hr_pfear0c,0xfe000592,0x00,0
+ISH,17,1, , , ,0
+PS2B,18,1, , , ,0
+DFx,19,1, , , ,0
+SCC,20,1, , , ,0
+Reserved,21,1, , , ,0
+Fuse,22,Not supported, , , ,0
+Camera,23,1, , , ,0
+Reserved,24,1,pch.pmc.xram.hr_pfear0d,0xfe000593,0x00,0
+USB3_OTG,25,1, , , ,0
+EXI,26,1, , , ,0
+CSE,27,1, , , ,0
+csme_kvm,28,1, , , ,0
+csme_pmt,29,1, , , ,0
+csme_clink,30,1, , , ,0
+csme_ptio,31,1, , , ,0
+csme_usbr,32,1,pch.pmc.xram.hr_pfear1a,0xfe000594,0x00,0
+csme_susram,33,1, , , ,0
+csme_smt,34,1, , , ,0
+Reserved,35,1, , , ,0
+csme_sms2,36,1, , , ,0
+csme_sms1,37,1, , , ,0
+csme_rtc,38,1, , , ,0
+csme_psf,39,1, , , ,0
+SBR0,40,1,pch.pmc.xram.hr_pfear1b,0xfe000595,0x00,0
+SBR1,41,1, , , ,0
+SBR2,42,1, , , ,0
+SBR3,43,1, , , ,0
+SBR4,44,1, , , ,0
+SBR5,45,1, , , ,0
+Reserved,46,1, , , ,0
+PSF1,47,1, , , ,0
+PSF2,48,1,pch.pmc.xram.hr_pfear1c,0xfe000596,0x00,0
+PSF3,49,1, , , ,0
+PSF4,50,1, , , ,0
+Reserved,51,1, , , ,0
+Reserved,52,1, , , ,0
+Reserved,53,1, , , ,0
+Reserved,54,1, , , ,0
+Reserved,55,1, , , ,0
+Reserved,56,1,pch.pmc.xram.hr_pfear1d,0xfe000597,0x00,0
+Reserved,57,1, , , ,0
+Reserved,58,1, , , ,0
+Reserved,59,1, , , ,0
+Reserved,60,1, , , ,0
+Reserved,61,1, , , ,0
+Reserved,62,1, , , ,0
+Reserved,63,1, , , ,0

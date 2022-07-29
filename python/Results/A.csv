@@ -1,0 +1,36 @@
+graphics,graphics_006,FAILURE,GFX is not supporting frame buffer compression feature
+graphics,graphics_010,SUCCESS,GPU is idle
+graphics,graphics_013,FAILURE,Render Buffer Compression is disabled
+graphics,graphics_015,SUCCESS,minimum GPU frequency is 200 MHz
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_014,SUCCESS,DPTF enabled
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_007,SUCCESS,Exp_freeze_timeout : 20000; Actual_freeze_timeout :20000
+graphics,graphics_006,FAILURE,GFX is not supporting frame buffer compression feature
+graphics,graphics_010,SUCCESS,GPU is idle
+graphics,graphics_013,SUCCESS,Render Buffer Compression is enabled
+graphics,graphics_015,SUCCESS,minimum GPU frequency is 200 MHz
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_014,SUCCESS,DPTF enabled
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_007,SUCCESS,Exp_freeze_timeout : 20000; Actual_freeze_timeout :20000
+graphics,graphics_006,FAILURE,GFX is not supporting frame buffer compression feature
+graphics,graphics_010,SUCCESS,GPU is idle
+graphics,graphics_013,SUCCESS,Render Buffer Compression is enabled
+graphics,graphics_015,SUCCESS,minimum GPU frequency is 200 MHz
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_014,SUCCESS,DPTF enabled
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_007,SUCCESS,Exp_freeze_timeout : 20000; Actual_freeze_timeout :20000
+graphics,graphics_006,FAILURE,GFX is not supporting frame buffer compression feature
+graphics,graphics_010,SUCCESS,GPU is idle
+graphics,graphics_013,SUCCESS,Render Buffer Compression is enabled
+graphics,graphics_015,SUCCESS,minimum GPU frequency is 200 MHz
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_014,SUCCESS,DPTF enabled
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_007,SUCCESS,Exp_freeze_timeout : 20000; Actual_freeze_timeout :20000

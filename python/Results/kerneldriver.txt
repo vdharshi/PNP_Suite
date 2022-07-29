@@ -1,0 +1,10 @@
+i915
+intel-ipu6
+intel-lpss
+intel_gna
+iwlwifi
+mei_me
+proc_thermal
+sdhci-pci
+sof-audio-pci
+xhci_hcd

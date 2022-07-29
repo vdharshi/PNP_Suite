@@ -1,0 +1,1925 @@
+cpu_hotplug,cpu_hp_002,SUCCESS,Possible core : ,0-1
+cpu_hotplug,cpu_hp_002,SUCCESS,Possible core : ,0-1
+cpu_hotplug,cpu_hp_002,SUCCESS,Possible core :0-1 
+cpu_hotplug,cpu_hp_003,SUCCESS,"current_driver = intel_idle
+ , current_governor_ro = teo
+"
+cpu_hotplug,cpu_hp_003,SUCCESS,"current_driver = intel_idle
+ , current_governor_ro = teo
+"
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=3.75
+"thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=279.83872"
+thermal,thermal_017,SUCCESS,"Tempratures of 8 zones are ['67000', '20000', '51800', '55800', '42800', '43800', '67000', '44000']"
+thermal,thermal_017,SUCCESS,"Tempratures of 8 zones are ['67000', '20000', '51800', '55800', '43800', '43800', '65000', '43000']"
+thermal,thermal_017,SUCCESS,"Tempratures of 8 zones are ['67000', '20000', '51800', '55800', '42800', '43800', '67000', '43000']"
+thermal,thermal_016,SUCCESS,"Total 8 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TSR2', 'TSR3', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_015,SUCCESS,"Total 4
+ Thermal sensors namely ['Memory', 'Ambient', 'Charger', '5Vregular']"
+thermal,thermal_014,SUCCESS,DPTF enabled
+display,display_002,FAILURE,"display resolution is e=""1366x76 not 1920*1280"
+display,display_002,FAILURE,"display resolution is 366x768"" not 1920*1280"
+display,display_002,FAILURE,display resolution is 1366x768 not 1920*1280
+display,display_005,FAILURE,Display doesn't support DRRS feature
+display,display_005,FAILURE,Display doesn't support DRRS feature
+display,display_005,FAILURE,Display doesn't support DRRS feature
+display,display_005,FAILURE,Display doesn't support DRRS feature
+display,display_005,FAILURE,Display doesn't support DRRS feature
+display,display_005,FAILURE,Display doesn't support DRRS feature
+display,display_005,FAILURE,Display doesn't support DRRS feature
+display,display_005,SUCCESS,Display supports DRRS feature
+display,display_005,SUCCESS,Display supports DRRS feature
+display,display_005,SUCCESS,Display supports DRRS feature
+display,display_005,SUCCESS,Display supports DRRS feature
+display,display_005,SUCCESS,Display supports DRRS feature
+display,display_005,SUCCESS,Display supports DRRS feature
+display,display_005,FAILURE,Display doesn't support DRRS feature
+display,display_005,SUCCESS,Display supports DRRS feature
+display,display_005,REBOOT,active CRT is required
+display,display_005,REBOOT,active CRT is required
+display,display_005,REBOOT,active CRT is required
+display,display_005,SUCCESS,Display supports DRRS feature
+display,display_005,REBOOT,active CRT is required
+display,display_005,REBOOT,active CRT is required
+display,display_005,REBOOT,active CRT is required
+display,display_005,REBOOT,active CRT is required
+display,display_005,SUCCESS,Display supports DRRS feature
+display,display_005,REBOOT,active CRT is required
+display,display_005,SUCCESS,Display supports DRRS feature
+display,display_005,SUCCESS,Display supports DRRS feature
+display,display_005,SUCCESS,Display supports DRRS feature
+cpu_hotplug,cpu_hp_001,FAILURE,Unable to put the cores in offline
+cpu_hotplug,cpu_hp_001,FAILURE,Unable to put the cores in offline
+cpu_hotplug,cpu_hp_001,SUCCESS,Able to put the cores in offline
+cpu_hotplug,cpu_hp_001,SUCCESS,Able to put the cores in offline
+cpu_hotplug,cpu_hp_005,SUCCESS,min cpu freq={c}; max cpu freq={b} and base cpu freq={a}
+cpu_hotplug,cpu_hp_005,SUCCESS,"min cpu freq=800000
+; max cpu freq=2800000
+ and base cpu freq=1100000
+"
+cpu_hotplug,cpu_hp_005,SUCCESS,min cpu freq=800000; max cpu freq=2800000 and base cpu freq=1100000
+cpu_hotplug,cpu_hp_002,SUCCESS,Possible core :0-1 
+cpu_hotplug,cpu_hp_003,SUCCESS,"current_driver = intel_idle
+ , current_governor_ro = teo
+"
+cpu_hotplug,cpu_hp_003,SUCCESS,"current_driver = intel_idle , current_governor_ro = teo"
+cpu_hotplug,cpu_hp_003,SUCCESS,"current_driver = intel_idle , current_governor_ro = teo"
+graphics,graphics_009,SUCCESS, Total number of EUs are 16
+graphics,graphics_010,SUCCESS,GPU is idle
+graphics,graphics_011,SUCCESS,Huc is active and its version is 9.0.0
+graphics,graphics_012,SUCCESS,MESA version is 20.2.1-r17
+graphics,graphics_013,SUCCESS,Render Buffer Compression is enabled
+graphics,graphics_014,FAILURE,Media Compression is disabled
+graphics,graphics_015,SUCCESS,minimum GPU frequency is 200 MHz
+graphics,graphics_016,SUCCESS,maximum GPU frequency is 750 MHz
+graphics,graphics_017,SUCCESS,Efficient GPU frequency is 200 MHz
+graphics,graphics_011,SUCCESS,Huc is active and its version is 9.0.0
+graphics,graphics_012,SUCCESS,MESA version is 20.2.1-r17
+graphics,graphics_013,SUCCESS,Render Buffer Compression is enabled
+graphics,graphics_013,SUCCESS,Render Buffer Compression is enabled
+graphics,graphics_014,FAILURE,Media Compression is disabled
+graphics,graphics_015,SUCCESS,minimum GPU frequency is 200 MHz
+graphics,graphics_016,SUCCESS,maximum GPU frequency is 750 MHz
+graphics,graphics_017,SUCCESS,Efficient GPU frequency is 200 MHz
+"s0ix_states,S0ix_001,SUCCESS, on powerd_dbus_suspend"
+s0ix_states,S0ix_001,SUCCESS on powerd_dbus_suspend
+s0ix_states,S0ix_024,SUCCESS,S0ix count is incrementing as expected
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_007,FAILURE,Display is not entering  DC6 state  when display is On
+display,display_007,FAILURE,Display is not entering DC6 state when display is Off
+display,display_009,FAILURE,Display is not entering DC6 state when display is Off
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_021,FAILURE,Display is not supporting PSR2 Panels
+display,display_025,FAILURE,CD clock frequency = 172800 kHz not 307200kHz
+display,display_026,SUCCESS,display port is eDP-1
+display,display_028,FAILURE,"display frequency is 0
+ not 60"
+display,display_028,FAILURE,"display frequency is 0
+ not 60"
+display,display_028,FAILURE,display frequency is 0 not 60
+display,display_029,FAILURE,Runtime power is disabled
+display,display_029,SUCCESS,"SUCCESS,Runtime power is enabled"
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,FAILURE,dispaly dbc is disabled
+display,display_031,SUCCESS,display mst is enabled
+display,display_031,SUCCESS,display mst is enabled
+display,display_033,FAILURE,dispaly backlight is disabled
+display,display_033,FAILURE,dispaly backlight is disabled
+display,display_034,SUCCESS,GUC is enabled
+display,display_034,SUCCESS,GUC is enabled
+display,display_035,SUCCESS,hangcheck is enabled
+display,display_035,SUCCESS,ips is enabled
+display,display_037,SUCCESS,Total number of VCS are 1
+display,display_038,SUCCESS,"Toatl 3 display connectors namely ['CONNECTOR:215:eDP-1', 'CONNECTOR:222:DP-1]', 'CONNECTOR:231:DP-2]']"
+Memory,mem_001,"INFORMATION,Memory Rank is <os._wrap_close object at 0x7eea93b93d60> "
+Memory,mem_001,"INFORMATION,Memory Rank is 1
+ "
+Memory,mem_001,"INFORMATION,Memory Rank is 1 "
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_002,"INFORMATION,Memory Size is  MB"
+Memory,mem_003,"INFORMATION,Memory Speed is  MT/S"
+cpu_hotplug,cpu_hp_001,SUCCESS,Able to put the cores in offline
+cpu_hotplug,cpu_hp_002,SUCCESS,Possible core :0-1 
+cpu_hotplug,cpu_hp_003,SUCCESS,"current_driver = intel_idle , current_governor_ro = teo"
+cpu_hotplug,cpu_hp_005,SUCCESS,min cpu freq=800000; max cpu freq=2800000 and base cpu freq=1100000
+"s0ix_states,S0ix_001,SUCCESS, on powerd_dbus_suspend"
+display,display_005,REBOOT,active CRT is required
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_007,FAILURE,Display is not entering  DC6 state  when display is On
+display,display_007,FAILURE,Display is not entering DC6 state when display is Off
+display,display_009,FAILURE,Display is not entering DC6 state when display is Off
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_021,FAILURE,Display is not supporting PSR2 Panels
+display,display_025,FAILURE,CD clock frequency = 172800 kHz not 307200kHz
+display,display_026,SUCCESS,display port is eDP-1
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=5.75
+thermal,thermal_002,INFORMATION,PL2(SYS_FS) = 20.0
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=5.75
+thermal,thermal_002,INFORMATION,PL2(SYS_FS) = 20.0
+thermal,thermal_003,INFORMATION,PL1(MSR) = 5.75
+thermal,thermal_004,INFORMATION,PL2(MSR) = 20.0
+"thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=279.83872"
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.000976
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 12.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_012,FAILURE,Fanless Platform
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 4
+ Thermal sensors namely ['Memory', 'Ambient', 'Charger', '5Vregular']"
+thermal,thermal_016,SUCCESS,"Total 8 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TSR2', 'TSR3', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 8 zones are ['57000', '20000', '39800', '42800', '35800', '34800', '57000', '36000']"
+graphics,graphics_009,SUCCESS, Total number of EUs are 16
+graphics,graphics_010,SUCCESS,GPU is idle
+graphics,graphics_011,SUCCESS,Huc is active and its version is 9.0.0
+graphics,graphics_012,SUCCESS,MESA version is 20.2.1-r17
+graphics,graphics_013,FAILURE,Render Buffer Compression is disabled
+graphics,graphics_014,FAILURE,Media Compression is disabled
+graphics,graphics_015,SUCCESS,minimum GPU frequency is 200 MHz
+graphics,graphics_016,SUCCESS,maximum GPU frequency is 750 MHz
+graphics,graphics_017,SUCCESS,Efficient GPU frequency is 200 MHz
+"s0ix_states,S0ix_001,SUCCESS, on powerd_dbus_suspend"
+s0ix_states,S0ix_001,SUCCESS on powerd_dbus_suspend
+s0ix_states,S0ix_024,SUCCESS,S0ix count is incrementing as expected
+display,display_002,FAILURE,display resolution is 1366x768 not 1920*1280
+display,display_005,SUCCESS,Display supports DRRS feature
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_007,FAILURE,Display is not entering  DC6 state  when display is On
+display,display_007,FAILURE,Display is not entering DC6 state when display is Off
+display,display_009,FAILURE,Display is not entering DC6 state when display is Off
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_021,FAILURE,Display is not supporting PSR2 Panels
+display,display_025,FAILURE,CD clock frequency = 172800 kHz not 307200kHz
+display,display_026,SUCCESS,display port is eDP-1
+display,display_028,FAILURE,display frequency is 0 not 60
+display,display_029,SUCCESS,Runtime power is enabled
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,FAILURE,dispaly dbc is disabled
+display,display_031,SUCCESS,display mst is enabled
+display,display_033,FAILURE,dispaly backlight is disabled
+display,display_034,SUCCESS,GUC is enabled
+display,display_035,SUCCESS,hangcheck is enabled
+display,display_035,SUCCESS,ips is enabled
+display,display_037,SUCCESS,Total number of VCS are 1
+display,display_038,SUCCESS,"Toatl 3 display connectors namely ['CONNECTOR:215:eDP-1', 'CONNECTOR:222:DP-1]', 'CONNECTOR:231:DP-2]']"
+display,display_028,FAILURE,display frequency is 60 not 60
+display,display_028,SUCCESS,display frequency is 60
+display,display_021,FAILURE,Display is not supporting PSR2 Panels
+display,display_028,SUCCESS,display frequency is 60
+display,display_030,FAILURE,dispaly counter is disabled
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=5.75
+thermal,thermal_002,INFORMATION,PL2(SYS_FS) = 20.0
+thermal,thermal_003,INFORMATION,PL1(MSR) = 5.75
+thermal,thermal_004,INFORMATION,PL2(MSR) = 20.0
+"thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=279.83872"
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.000976
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 12.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_012,FAILURE,Fanless Platform
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 4
+ Thermal sensors namely ['Memory', 'Ambient', 'Charger', '5Vregular']"
+thermal,thermal_016,SUCCESS,"Total 8 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TSR2', 'TSR3', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 8 zones are ['60000', '20000', '40800', '44800', '35800', '35800', '59000', '40000']"
+thermal,thermal_016,SUCCESS,"Total 8 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TSR2', 'TSR3', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=279.83872
+s0ix_states,s0ix_007FAILURE,S0ix count is not incrementing as expected
+thermal,thermal_015,SUCCESS,"Total 4 Thermal sensors namely ['Memory', 'Ambient', 'Charger', '5Vregular']"
+Memory,mem_002,"INFORMATION,Memory Size is  MB"
+Memory,mem_002,"INFORMATION,Memory Size is <os._wrap_close object at 0x791484882e20> MB"
+Memory,mem_002,"INFORMATION,Memory Size is <os._wrap_close object at 0x7a31a2d46e20> MB"
+Memory,mem_002,"INFORMATION,Memory Size is 4096
+ MB"
+Memory,mem_002,"INFORMATION,Memory Size is 4096 MB"
+Memory,mem_002,"INFORMATION,Memory Size is 4096 MB"
+Memory,mem_002,INFORMATION,Memory Size is 4096 MB
+Memory,mem_002,INFORMATION,Memory Size is 4096 MB
+Memory,mem_003,"INFORMATION,Memory Speed is 4096 MT/S"
+Memory,mem_003,INFORMATION,Memory Speed is 4096 MT/S
+Memory,mem_004,INFORMATION,Memory Channel is Channel-0-DIMM-0
+Memory,mem_005,INFORMATION,Memory is 32 bits
+Memory,mem_08,SUCCESS,eMMC resume and display suspend resume are async
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_002,INFORMATION,Memory Size is 4096 MB
+Memory,mem_003,INFORMATION,Memory Speed is 4096 MT/S
+Memory,mem_004,INFORMATION,Memory Channel is Channel-0-DIMM-0
+Memory,mem_005,INFORMATION,Memory is 32 bits
+Memory,mem_08,SUCCESS,eMMC resume and display suspend resume are async
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,FAILURE,doesnot Support P-state transition latency
+p_states,PS_015,FAILURE,doesnot Support P-state transition latency
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,FAILURE,Turbo feature is not enabled
+p_states,PS_023,FAILURE,Turbo feature is not enabled
+p_states,PS_023,FAILURE,Turbo feature is not enabled
+p_states,PS_023,FAILURE,Turbo feature is not enabled
+p_states,PS_023,FAILURE,Turbo feature is not enabled
+p_states,PS_023,FAILURE,Turbo feature is not enabled
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_035,SUCCESS,HW P-state is supported
+p_states,PS_035,SUCCESS,HW P-state is supported
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,SUCCESS,Affected CPU interface is not working
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_035,SUCCESS,HW P-state is supported
+kernel_pm,kpm_002,SUCCESS,pm_async is enabled
+kernel_pm,kpm_006,SUCCESS,pm_print_times is enabled
+kernel_pm,kpm_002,SUCCESS,pm_async is enabled
+kernel_pm,kpm_002,SUCCESS,pm_async is enabled
+kernel_pm,kpm_003,SUCCESS,Actual_res_wakeupcount:3742
+kernel_pm,kpm_003,SUCCESS,Actual_res_wakeupcount:3742
+kernel_pm,kpm_003,SUCCESS,Actual_res_wakeupcount:3742
+kernel_pm,kpm_007,FAILURE,Exp_freeze_timeout : {expec_timeout[:-1]}; Actual_freeze_timeout :{pm[:-1]}
+kernel_pm,kpm_007,FAILURE,Exp_freeze_timeout : {expec_timeout[:-1]}; Actual_freeze_timeout :{pm[:-1]}
+kernel_pm,kpm_007,SUCCESS,Exp_freeze_timeout : 2000; Actual_freeze_timeout :20000
+kernel_pm,kpm_007,SUCCESS,Exp_freeze_timeout : 20000; Actual_freeze_timeout :20000
+kernel_pm,kpm_008,SUCCESS,supporting all wakeup sources
+kernel_pm,kpm_004,FAILURE,DIM_time is 7m; Screenoff_time is 7m30s; sleep_time is <os._wrap_close object at 0x78ca94f64dc0>; It does not follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,FAILURE,DIM_time is 7m; Screenoff_time is 7m30s; sleep_time is <os._wrap_close object at 0x7b90a2e55d90>; It does not follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,FAILURE,DIM_time is 7m; Screenoff_time is 7m30s; sleep_time is <os._wrap_close object at 0x7c9cbbcf8d90>; It does not follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,FAILURE,DIM_time is 7m; Screenoff_time is 7m30s; sleep_time is <os._wrap_close object at 0x7c5334115640>; It does not follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,FAILURE,DIM_time is 7m; Screenoff_time is 7m30s; sleep_time is 8m30s; It does not follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,FAILURE,DIM_time is 7m; Screenoff_time is 7m30s; sleep_time is 8m30s; It does not follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,FAILURE,DIM_time is 7m; Screenoff_time is 7m30s; sleep_time is 8m30s; It does not follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,FAILURE,DIM_time is 7m; Screenoff_time is 7m30s; sleep_time is 8m30s; It does not follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,FAILURE,DIM_time is 7m; Screenoff_time is 7m30s; sleep_time is 8m30s; It does not follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,FAILURE,DIM_time is 7m; Screenoff_time is 7m30s; sleep_time is 8m30s; It does not follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,FAILURE,DIM_time is 7m; Screenoff_time is 7m30s; sleep_time is 8m30s; It does not follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,FAILURE,DIM_time is 7m; Screenoff_time is 7m30s; sleep_time is 8m30s; It does not follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,FAILURE,DIM_time is 7m; Screenoff_time is 7m30s; sleep_time is 8m30s; It does not follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,FAILURE,DIM_time is 7m; Screenoff_time is 7m30s; sleep_time is 8m30s; It does not follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+c_states,CS_001,FAILURE,Platform doesn't supports cpuidle framework
+c_states,CS_001,FAILURE,Platform doesn't supports cpuidle framework
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+p_states,PS_013,FAILURE,OS doesnt support writing invalid P-state to sysfs entry
+p_states,PS_013,FAILURE,OS doesnt support writing invalid P-state to sysfs entry
+graphics,graphics_009,SUCCESS, Total number of EUs are 16
+p_states,PS_018,SUCCESS,HWP enabled and ftrace is supported
+c_states,CS_007,SUCCESS,PC8_count2:119873357;PC8_count1:112781368 platform support checking the cpu idle counters after an S0ix iteration
+c_states,CS_007,SUCCESS,PC8_count2:132898271;PC8_count1:125140089 platform support checking the cpu idle counters after an S0ix iteration
+c_states,CS_007,SUCCESS,"PC2_count2:841004420;PC2_count1:835716512 platform supports checking for C-state counters while running CPU intensive workload, after an S0ix iteration"
+c_states,CS_010,SUCCESS,PC2_count2:915111634;PC2_count1:910157035 platform support checking the C-state counters while running CPU intensive workload
+c_states,CS_012,SUCCESS,PC8 PC10 are incrementing after S0ix transition
+c_states,CS_012,SUCCESS,PC8 PC10 are incrementing after S0ix transition
+c_states,CS_014,SUCCESS,Platform supports checking the hardware counter increment
+c_states,CS_016,FAILURE,Platform doesnot support checking all the C-state exit latency and target residency
+c_states,CS_016,FAILURE,Platform doesnot support checking all the C-state exit latency and target residency
+c_states,CS_016,FAILURE,Platform doesnot support checking all the C-state exit latency and target residency
+c_states,CS_016,FAILURE,Platform doesnot support checking all the C-state exit latency and target residency
+c_states,CS_016,SUCCESS,Platform supports checking all the C-state exit latency and target residency
+c_states,CS_020,SUCCESS,PC6 PC8 PC10 are incremneting while display is ON for PSR Panel
+c_states,CS_021,SUCCESS,"Platform enters in PC6, PC8 and PC10 C state while display is OFF for PSR Panel or NON PSR Panel"
+c_states,CS_024,SUCCESS,platform supports new package state PC2_VOA in display off and freeze
+c_states,CS_024,SUCCESS,platform supports new package state PC2_VOA in display off and freeze
+c_states,CS_025,SUCCESS,Package state PC2 for IDO gets incremented
+c_states,CS_026,SUCCESS,Turbostat & powertop are supported for the platform
+c_states,CS_026,SUCCESS,Turbostat & powertop are supported for the platform
+c_states,CS_027,SUCCESS,Device supports c_state residencies in the pmc driver
+c_states,CS_027,SUCCESS,Device supports c_state residencies in the pmc driver
+"c_states,CS_028,SUCCESS",Total number of core c-states are 4 which are 
+"c_states,CS_028,SUCCESS",Total number of core c-states are 4 which are C3_ACPI 
+c_states,CS_028,SUCCESS,Total number of core c-states are 4 which are C3_ACPI 
+c_states,CS_028,SUCCESS,Total number of core c-states are 4 which are C3_ACPI POLL C1_ACPI C2_ACPI C3_ACPI 
+c_states,CS_028,SUCCESS,Total number of core c-states are 4 which are POLL C1_ACPI C2_ACPI C3_ACPI 
+c_states,CS_028,SUCCESS,Total number of core c-states are 4 which are POLL C1_ACPI C2_ACPI C3_ACPI 
+"c_states,CS_029,FAILURE",core c-states are not intel enabled
+"c_states,CS_029,FAILURE",core c-states are not intel enabled
+c_states,CS_029,FAILURE,core c-states are not intel enabled
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_003,SUCCESS,PC8 PC10 counter is Incrementing after display off
+c_states,CS_007,SUCCESS,PC8_count2:2740230663;PC8_count1:2732739908 platform support checking the cpu idle counters after an S0ix iteration
+c_states,CS_009,SUCCESS,"PC2_count2:37699083957;PC2_count1:37693966806 platform supports checking for C-state counters while running CPU intensive workload, after an S0ix iteration"
+c_states,CS_010,SUCCESS,PC2_count2:37705067961;PC2_count1:37699935764 platform support checking the C-state counters while running CPU intensive workload
+c_states,CS_012,SUCCESS,PC8 PC10 are incrementing after S0ix transition
+c_states,CS_014,SUCCESS,Platform supports checking the hardware counter increment
+c_states,CS_016,SUCCESS,Platform supports checking all the C-state exit latency and target residency
+c_states,CS_020,SUCCESS,PC6 PC8 PC10 are incremneting while display is ON for PSR Panel
+c_states,CS_021,SUCCESS,"Platform enters in PC6, PC8 and PC10 C state while display is OFF for PSR Panel or NON PSR Panel"
+c_states,CS_025,SUCCESS,Package state PC2 for IDO gets incremented
+c_states,CS_026,SUCCESS,Turbostat & powertop are supported for the platform
+c_states,CS_027,SUCCESS,Device supports c_state residencies in the pmc driver
+c_states,CS_029,FAILURE,core c-states are not intel enabled
+Device_pm,DPM_003,"SUCCESS,All PCIe devices have ASPM features enabled"
+Device_pm,DPM_004,FAILURE,LPC's auto power management is not enabled
+Device_pm,DPM_004,FAILURE,LPC's auto power management is not enabled
+Device_pm,DPM_004,FAILURE,LPC's auto power management is not enabled
+Device_pm,DPM_004,"SUCCESS,LPC's auto power management enabled"
+Device_pm,DPM_004,FAILURE,LPC's auto power management is not enabled
+Device_pm,DPM_007,SUCCESS,out of 21 PCI device; 10 devices are in runtime suspended state when in idle
+Device_pm,DPM_007,SUCCESS,out of 21 PCI device; 10 devices are in runtime suspended state when in idle
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_003,SUCCESS,PC8 PC10 counter is Incrementing after display off
+c_states,CS_007,SUCCESS,PC8_count2:55847258982;PC8_count1:55822006526 platform support checking the cpu idle counters after an S0ix iteration
+c_states,CS_009,SUCCESS,"PC2_count2:62417387205;PC2_count1:62402108801 platform supports checking for C-state counters while running CPU intensive workload, after an S0ix iteration"
+c_states,CS_010,SUCCESS,PC2_count2:62434986930;PC2_count1:62419875840 platform support checking the C-state counters while running CPU intensive workload
+c_states,CS_012,SUCCESS,PC8 PC10 are incrementing after S0ix transition
+c_states,CS_014,SUCCESS,Platform supports checking the hardware counter increment
+c_states,CS_016,SUCCESS,Platform supports checking all the C-state exit latency and target residency
+c_states,CS_020,SUCCESS,PC6 PC8 PC10 are incremneting while display is ON for PSR Panel
+c_states,CS_021,SUCCESS,"Platform enters in PC6, PC8 and PC10 C state while display is OFF for PSR Panel or NON PSR Panel"
+c_states,CS_024,SUCCESS,platform supports new package state PC2_VOA in display off and freeze
+c_states,CS_025,SUCCESS,Package state PC2 for IDO gets incremented
+c_states,CS_026,FAILURE,Turbostat & powertop are not supported for the platform
+c_states,CS_027,SUCCESS,Device supports c_state residencies in the pmc driver
+c_states,CS_029,FAILURE,core c-states are not intel enabled
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_003,SUCCESS,PC8 PC10 counter is Incrementing after display off
+c_states,CS_007,SUCCESS,PC8_count2:56030557374;PC8_count1:56006930888 platform support checking the cpu idle counters after an S0ix iteration
+c_states,CS_009,SUCCESS,"PC2_count2:62550147243;PC2_count1:62534559042 platform supports checking for C-state counters while running CPU intensive workload, after an S0ix iteration"
+c_states,CS_010,SUCCESS,PC2_count2:62567801233;PC2_count1:62552664403 platform support checking the C-state counters while running CPU intensive workload
+c_states,CS_012,SUCCESS,PC8 PC10 are incrementing after S0ix transition
+c_states,CS_014,SUCCESS,Platform supports checking the hardware counter increment
+c_states,CS_016,SUCCESS,Platform supports checking all the C-state exit latency and target residency
+c_states,CS_020,SUCCESS,PC6 PC8 PC10 are incremneting while display is ON for PSR Panel
+c_states,CS_021,SUCCESS,"Platform enters in PC6, PC8 and PC10 C state while display is OFF for PSR Panel or NON PSR Panel"
+c_states,CS_024,SUCCESS,platform supports new package state PC2_VOA in display off and freeze
+c_states,CS_025,SUCCESS,Package state PC2 for IDO gets incremented
+c_states,CS_026,SUCCESS,Turbostat & powertop are supported for the platform
+c_states,CS_027,SUCCESS,Device supports c_state residencies in the pmc driver
+c_states,CS_029,FAILURE,core c-states are not intel enabled
+c_states,CS_002,SUCCESS,Platform Supports CPU core & Package C state
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,SUCCESS,Affected CPU interface is not working
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_035,FAILURE,HW P-state is not supported
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_035,FAILURE,HW P-state is not supported
+"s0ix_states,S0ix_001,SUCCESS, on powerd_dbus_suspend"
+s0ix_states,s0ix_007,SUCCESS on powerd_dbus_suspend
+s0ix_states,S0ix_024,SUCCESS,S0ix count is incrementing as expected
+graphics,graphics_009,SUCCESS, Total number of EUs are 16
+graphics,graphics_010,SUCCESS,GPU is idle
+graphics,graphics_011,SUCCESS,Huc is active and its version is 9.0.0
+graphics,graphics_012,SUCCESS,MESA version is 21.1.1-r26
+graphics,graphics_013,FAILURE,Render Buffer Compression is disabled
+graphics,graphics_014,FAILURE,Media Compression is disabled
+graphics,graphics_015,SUCCESS,minimum GPU frequency is 200 MHz
+graphics,graphics_016,SUCCESS,maximum GPU frequency is 750 MHz
+graphics,graphics_017,SUCCESS,Efficient GPU frequency is 300 MHz
+"graphics,graphics_006,FAILURE,GFX is not supporting frame buffer compression feature"
+"graphics,graphics_006,FAILURE,GFX is not supporting frame buffer compression feature"
+"graphics,graphics_006,FAILURE,GFX is not supporting frame buffer compression feature"
+graphics,graphics_009,SUCCESS, Total number of EUs are 16
+graphics,graphics_010,SUCCESS,GPU is idle
+graphics,graphics_011,SUCCESS,Huc is active and its version is 9.0.0
+graphics,graphics_012,SUCCESS,MESA version is 21.1.1-r26
+graphics,graphics_013,FAILURE,Render Buffer Compression is disabled
+graphics,graphics_014,FAILURE,Media Compression is disabled
+graphics,graphics_015,SUCCESS,minimum GPU frequency is 200 MHz
+graphics,graphics_016,SUCCESS,maximum GPU frequency is 750 MHz
+graphics,graphics_017,SUCCESS,Efficient GPU frequency is 300 MHz
+"graphics,graphics_006,FAILURE,GFX is not supporting frame buffer compression feature"
+display,display_002,FAILURE,display resolution is  0 0 0 0 not 1920*1280
+display,display_005,REBOOT,active CRT is required
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_007,SUCCESS,Display enters DC6 state  when display is On
+display,display_007,SUCCESS,Display enters DC6 state when display is Off
+display,display_009,FAILURE,Display is not entering DC6 state when display is Off
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_021,FAILURE,Display is not supporting PSR2 Panels
+display,display_025,FAILURE,CD clock frequency = 172800 kHz not 307200kHz
+display,display_026,SUCCESS,display port is eDP-1
+display,display_028,FAILURE,display frequency is 0 not 60
+display,display_029,SUCCESS,Runtime power is enabled
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,FAILURE,dispaly dbc is disabled
+display,display_031,SUCCESS,display mst is enabled
+display,display_033,FAILURE,dispaly backlight is disabled
+display,display_034,SUCCESS,GUC is enabled
+display,display_035,SUCCESS,hangcheck is enabled
+display,display_035,SUCCESS,ips is enabled
+display,display_037,SUCCESS,Total number of VCS are 1
+display,display_038,SUCCESS,"Toatl 3 display connectors namely ['CONNECTOR:215:eDP-1', 'CONNECTOR:222:DP-1]', 'CONNECTOR:233:DP-2]']"
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=7.0
+Device_pm,DPM_003,"SUCCESS,All PCIe devices have ASPM features enabled"
+Device_pm,DPM_004,FAILURE,LPC's auto power management is not enabled
+Device_pm,DPM_007,SUCCESS,out of 22 PCI device; 14 devices are in runtime suspended state when in idle
+Device_pm,DPM_008,"00.0 Host bridge
+ pci device is not in runtime suspended state when in idle"
+Device_pm,DPM_009,IntelCorporationDevice4e55(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_010,IntelCorporationDevice4e03 pci device is not in runtime suspended state when in idle
+Device_pm,DPM_011,SUCCESS,IntelCorporationDevice4e19 pci device is in runtime suspended state when in idle
+Device_pm,DPM_012,SUCCESS,IntelCorporationDevice4e11 pci device is in runtime suspended state when in idle
+Device_pm,DPM_013,SUCCESS,IntelCorporationDevice4ded(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_014,IntelCorporationDevice4def(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_015,IntelCorporationDevice4df0(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_016,SUCCESS,IntelCorporationDevice4df8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_017,SUCCESS,IntelCorporationDevice4de8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_018,SUCCESS,IntelCorporationDevice4de9(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_019,SUCCESS,IntelCorporationDevice4dea(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_020,SUCCESS,IntelCorporationDevice4deb(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_021,SUCCESS,IntelCorporationDevice4de0(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_022,SUCCESS,IntelCorporationDevice4dc5(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_023,IntelCorporationDevice4dc7(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_024,SUCCESS,IntelCorporationDevice4dc4(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_025,SUCCESS,IntelCorporationDevice4da8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_026,SUCCESS,IntelCorporationDevice4daa(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_027,IntelCorporationDevice4d87(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_028,SUCCESS,IntelCorporationDevice4dc8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_029,IntelCorporationDevice4da4(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_030,"FAILURE,PCI device NA"
+Device_pm,DPM_031,"FAILURE,PCI device NA"
+Device_pm,DPM_032,"FAILURE,PCI device NA"
+Device_pm,DPM_033,"FAILURE,PCI device NA"
+Device_pm,DPM_034,"FAILURE,PCI device NA"
+Device_pm,DPM_035,"FAILURE,PCI device NA"
+Device_pm,DPM_036,"FAILURE,PCI device NA"
+Device_pm,DPM_037,"FAILURE,PCI device NA"
+Device_pm,DPM_038,"FAILURE,PCI device NA"
+Device_pm,DPM_039,"FAILURE,PCI device NA"
+Device_pm,DPM_040,FAILURE,out of 8 intel-lpss drivers 1 not in runtime suspended state when in idle
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=7.0
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['34000', '20000', '25800', '26800', '30000', '32000']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['34000', '20000', '25800', '26800', '29000', '30000']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['34000', '20000', '25800', '26800', '29000', '31000']"
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_002,SUCCESS,Platform Supports CPU core & Package C state
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_002,SUCCESS,Platform Supports CPU core & Package C state
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_002,SUCCESS,Platform Supports CPU core & Package C state
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_035,FAILURE,HW P-state is not supported
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_002,SUCCESS,Platform Supports CPU core & Package C state
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+s0ix_states,s0ix_007,SUCCESS on powerd_dbus_suspend
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+c_states,CS_009,SUCCESS,"PC2_count2:120115284053;PC2_count1:120100053317 platform supports checking for C-state counters while running CPU intensive workload, after an S0ix iteration"
+c_states,CS_012,SUCCESS,PC8 PC10 are incrementing after S0ix transition
+c_states,CS_020,FAILURE,PC6 PC8 PC10 are not incrementing while display is ON for PSR Panel
+c_states,CS_026,SUCCESS,Turbostat & powertop are supported for the platform
+c_states,CS_029,FAILURE,core c-states are not intel enabled
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_035,FAILURE,HW P-state is not supported
+s0ix_states,S0ix_024,SUCCESS,S0ix count is incrementing as expected
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+c_states,CS_009,SUCCESS,"PC2_count2:120319999282;PC2_count1:120304930677 platform supports checking for C-state counters while running CPU intensive workload, after an S0ix iteration"
+c_states,CS_012,SUCCESS,PC8 PC10 are incrementing after S0ix transition
+c_states,CS_020,FAILURE,PC6 PC8 PC10 are not incrementing while display is ON for PSR Panel
+c_states,CS_026,SUCCESS,Turbostat & powertop are supported for the platform
+c_states,CS_029,FAILURE,core c-states are not intel enabled
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_035,FAILURE,HW P-state is not supported
+s0ix_states,S0ix_024,SUCCESS,S0ix count is incrementing as expected
+Device_pm,DPM_012,SUCCESS,IntelCorporationDevice4e11 pci device is in runtime suspended state when in idle
+Device_pm,DPM_019,SUCCESS,IntelCorporationDevice4dea(rev01) pci device is in runtime suspended state when in idle
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['37000', '20000', '28800', '28800', '32000', '33000']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['36000', '20000', '27800', '27800', '30000', '32000']"
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=7.0
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['35000', '20000', '27800', '27800', '30000', '32000']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['34000', '20000', '27800', '27800', '31000', '32000']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['34000', '20000', '26800', '26800', '30000', '32000']"
+kernel_pm,kpm_002,SUCCESS,pm_async is enabled
+kernel_pm,kpm_003,SUCCESS,Actual_res_wakeupcount:3601
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_006,SUCCESS,pm_print_times is enabled
+kernel_pm,kpm_007,SUCCESS,Exp_freeze_timeout : 20000; Actual_freeze_timeout :20000
+kernel_pm,kpm_008,SUCCESS,supporting all wakeup sources
+kernel_pm,kpm_002,SUCCESS,pm_async is enabled
+kernel_pm,kpm_003,SUCCESS,Actual_res_wakeupcount:3601
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_006,SUCCESS,pm_print_times is enabled
+kernel_pm,kpm_007,SUCCESS,Exp_freeze_timeout : 20000; Actual_freeze_timeout :20000
+kernel_pm,kpm_008,SUCCESS,supporting all wakeup sources
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_002,INFORMATION,Memory Size is 4096 MB
+Memory,mem_003,INFORMATION,Memory Speed is 4096 MT/S
+Memory,mem_004,INFORMATION,Memory Channel is Channel-0-DIMM-0
+Memory,mem_005,INFORMATION,Memory is 32 bits
+Memory,mem_08,SUCCESS,eMMC resume and display suspend resume are async
+kernel_pm,kpm_002,SUCCESS,pm_async is enabled
+kernel_pm,kpm_003,SUCCESS,Actual_res_wakeupcount:3601
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_006,SUCCESS,pm_print_times is enabled
+kernel_pm,kpm_007,SUCCESS,Exp_freeze_timeout : 20000; Actual_freeze_timeout :20000
+kernel_pm,kpm_008,SUCCESS,supporting all wakeup sources
+Memory,mem_002,INFORMATION,Memory Size is 4096 MB
+Memory,mem_005,INFORMATION,Memory is 32 bits
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['36000', '20000', '27800', '27800', '31000', '32000']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['36000', '20000', '27800', '28800', '32000', '32000']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['36000', '20000', '27800', '28800', '32000', '32000']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['38000', '20000', '27800', '28800', '31000', '32000']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['35000', '20000', '27800', '27800', '31000', '32000']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['36000', '20000', '26800', '27800', '30000', '32000']"
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_002,SUCCESS,Platform Supports CPU core & Package C state
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+c_states,CS_007,SUCCESS,PC8_count2:106220494560;PC8_count1:106193712817 platform support checking the cpu idle counters after an S0ix iteration
+c_states,CS_009,SUCCESS,"PC2_count2:122226859171;PC2_count1:122211737250 platform supports checking for C-state counters while running CPU intensive workload, after an S0ix iteration"
+c_states,CS_010,SUCCESS,PC2_count2:122244369744;PC2_count1:122229370824 platform support checking the C-state counters while running CPU intensive workload
+c_states,CS_012,SUCCESS,PC8 PC10 are incrementing after S0ix transition
+c_states,CS_014,FAILURE,Platform doesnot support checking the hardware counter increment
+c_states,CS_016,SUCCESS,Platform supports checking all the C-state exit latency and target residency
+c_states,CS_020,SUCCESS,PC6 PC8 PC10 are incremneting while display is ON for PSR Panel
+c_states,CS_021,SUCCESS,"Platform enters in PC6, PC8 and PC10 C state while display is OFF for PSR Panel or NON PSR Panel"
+c_states,CS_025,SUCCESS,Package state PC2 for IDO gets incremented
+c_states,CS_026,SUCCESS,Turbostat & powertop are supported for the platform
+c_states,CS_027,SUCCESS,Device supports c_state residencies in the pmc driver
+c_states,CS_029,FAILURE,core c-states are not intel enabled
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_035,FAILURE,HW P-state is not supported
+"s0ix_states,S0ix_001,SUCCESS, on powerd_dbus_suspend"
+s0ix_states,s0ix_007,SUCCESS on powerd_dbus_suspend
+s0ix_states,S0ix_024,SUCCESS,S0ix count is incrementing as expected
+"graphics,graphics_006,FAILURE,GFX is not supporting frame buffer compression feature"
+graphics,graphics_009,SUCCESS, Total number of EUs are 16
+graphics,graphics_010,SUCCESS,GPU is idle
+graphics,graphics_011,SUCCESS,Huc is active and its version is 9.0.0
+graphics,graphics_012,SUCCESS,MESA version is 21.1.1-r26
+graphics,graphics_013,SUCCESS,Render Buffer Compression is enabled
+graphics,graphics_014,FAILURE,Media Compression is disabled
+graphics,graphics_015,SUCCESS,minimum GPU frequency is 200 MHz
+graphics,graphics_016,SUCCESS,maximum GPU frequency is 750 MHz
+graphics,graphics_017,SUCCESS,Efficient GPU frequency is 300 MHz
+display,display_002,FAILURE,display resolution is 1366x768 not 1920*1280
+display,display_005,FAILURE,Display doesn't support DRRS feature
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_007,FAILURE,Display is not entering  DC6 state  when display is On
+display,display_007,SUCCESS,Display enters DC6 state when display is Off
+display,display_009,SUCCESS,Display enters DC6 state when display is Off
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_021,FAILURE,Display is not supporting PSR2 Panels
+display,display_025,FAILURE,CD clock frequency = 172800 kHz not 307200kHz
+display,display_026,SUCCESS,display port is eDP-1
+display,display_028,FAILURE,display frequency is 0 not 60
+display,display_029,SUCCESS,Runtime power is enabled
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,FAILURE,dispaly dbc is disabled
+display,display_031,SUCCESS,display mst is enabled
+display,display_033,FAILURE,dispaly backlight is disabled
+display,display_034,SUCCESS,GUC is enabled
+display,display_035,SUCCESS,hangcheck is enabled
+display,display_035,SUCCESS,ips is enabled
+display,display_037,SUCCESS,Total number of VCS are 1
+display,display_038,SUCCESS,"Toatl 3 display connectors namely ['CONNECTOR:215:eDP-1', 'CONNECTOR:222:DP-1]', 'CONNECTOR:233:DP-2]']"
+Device_pm,DPM_003,"SUCCESS,All PCIe devices have ASPM features enabled"
+Device_pm,DPM_004,FAILURE,LPC's auto power management is not enabled
+Device_pm,DPM_007,SUCCESS,out of 22 PCI device; 14 devices are in runtime suspended state when in idle
+Device_pm,DPM_008,"00.0 Host bridge
+ pci device is not in runtime suspended state when in idle"
+Device_pm,DPM_009,IntelCorporationDevice4e55(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_010,IntelCorporationDevice4e03 pci device is not in runtime suspended state when in idle
+Device_pm,DPM_011,SUCCESS,IntelCorporationDevice4e19 pci device is in runtime suspended state when in idle
+Device_pm,DPM_012,SUCCESS,IntelCorporationDevice4e11 pci device is in runtime suspended state when in idle
+Device_pm,DPM_013,SUCCESS,IntelCorporationDevice4ded(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_014,IntelCorporationDevice4def(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_015,IntelCorporationDevice4df0(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_016,SUCCESS,IntelCorporationDevice4df8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_017,SUCCESS,IntelCorporationDevice4de8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_018,SUCCESS,IntelCorporationDevice4de9(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_019,SUCCESS,IntelCorporationDevice4dea(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_020,SUCCESS,IntelCorporationDevice4deb(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_021,SUCCESS,IntelCorporationDevice4de0(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_022,SUCCESS,IntelCorporationDevice4dc5(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_023,IntelCorporationDevice4dc7(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_024,SUCCESS,IntelCorporationDevice4dc4(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_025,SUCCESS,IntelCorporationDevice4da8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_026,SUCCESS,IntelCorporationDevice4daa(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_027,IntelCorporationDevice4d87(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_028,SUCCESS,IntelCorporationDevice4dc8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_029,IntelCorporationDevice4da4(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_030,"FAILURE,PCI device NA"
+Device_pm,DPM_031,"FAILURE,PCI device NA"
+Device_pm,DPM_032,"FAILURE,PCI device NA"
+Device_pm,DPM_033,"FAILURE,PCI device NA"
+Device_pm,DPM_034,"FAILURE,PCI device NA"
+Device_pm,DPM_035,"FAILURE,PCI device NA"
+Device_pm,DPM_036,"FAILURE,PCI device NA"
+Device_pm,DPM_037,"FAILURE,PCI device NA"
+Device_pm,DPM_038,"FAILURE,PCI device NA"
+Device_pm,DPM_039,"FAILURE,PCI device NA"
+Device_pm,DPM_040,FAILURE,out of 8 intel-lpss drivers 1 not in runtime suspended state when in idle
+kernel_pm,kpm_002,SUCCESS,pm_async is enabled
+kernel_pm,kpm_003,SUCCESS,Actual_res_wakeupcount:3615
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_006,SUCCESS,pm_print_times is enabled
+kernel_pm,kpm_007,SUCCESS,Exp_freeze_timeout : 20000; Actual_freeze_timeout :20000
+kernel_pm,kpm_008,SUCCESS,supporting all wakeup sources
+cpu_hotplug,cpu_hp_002,SUCCESS,Possible core :0-1 
+cpu_hotplug,cpu_hp_003,SUCCESS,"current_driver = intel_idle , current_governor_ro = teo"
+cpu_hotplug,cpu_hp_002,SUCCESS,Possible core :0-1 
+cpu_hotplug,cpu_hp_003,SUCCESS,"current_driver = intel_idle , current_governor_ro = teo"
+cpu_hotplug,cpu_hp_005,SUCCESS,min cpu freq=800000; max cpu freq=2800000 and base cpu freq=1100000
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+kernel_pm,kpm_002,SUCCESS,pm_async is enabled
+kernel_pm,kpm_003,SUCCESS,Actual_res_wakeupcount:3615
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_006,SUCCESS,pm_print_times is enabled
+kernel_pm,kpm_007,SUCCESS,Exp_freeze_timeout : 20000; Actual_freeze_timeout :20000
+kernel_pm,kpm_008,SUCCESS,supporting all wakeup sources
+Memory,mem_002,INFORMATION,Memory Size is 4096 MB
+Memory,mem_005,INFORMATION,Memory is 32 bits
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_002,SUCCESS,Platform Supports CPU core & Package C state
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+c_states,CS_007,SUCCESS,PC8_count2:107385817099;PC8_count1:107359274468 platform support checking the cpu idle counters after an S0ix iteration
+c_states,CS_009,SUCCESS,"PC2_count2:122998164959;PC2_count1:122983068238 platform supports checking for C-state counters while running CPU intensive workload, after an S0ix iteration"
+c_states,CS_010,SUCCESS,PC2_count2:123015743281;PC2_count1:123000713583 platform support checking the C-state counters while running CPU intensive workload
+c_states,CS_012,SUCCESS,PC8 PC10 are incrementing after S0ix transition
+c_states,CS_014,FAILURE,Platform doesnot support checking the hardware counter increment
+c_states,CS_016,SUCCESS,Platform supports checking all the C-state exit latency and target residency
+c_states,CS_020,SUCCESS,PC6 PC8 PC10 are incremneting while display is ON for PSR Panel
+c_states,CS_021,SUCCESS,"Platform enters in PC6, PC8 and PC10 C state while display is OFF for PSR Panel or NON PSR Panel"
+c_states,CS_025,SUCCESS,Package state PC2 for IDO gets incremented
+c_states,CS_026,SUCCESS,Turbostat & powertop are supported for the platform
+c_states,CS_027,SUCCESS,Device supports c_state residencies in the pmc driver
+c_states,CS_029,FAILURE,core c-states are not intel enabled
+c_states,CS_021,SUCCESS,"Platform enters in PC6, PC8 and PC10 C state while display is OFF for PSR Panel or NON PSR Panel"
+c_states,CS_025,SUCCESS,Package state PC2 for IDO gets incremented
+c_states,CS_026,SUCCESS,Turbostat & powertop are supported for the platform
+c_states,CS_027,SUCCESS,Device supports c_state residencies in the pmc driver
+c_states,CS_028,SUCCESS,Total number of core c-states are 4 which are POLL C1_ACPI C2_ACPI C3_ACPI 
+c_states,CS_029,FAILURE,core c-states are not intel enabled
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_035,FAILURE,HW P-state is not supported
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['34000', '20000', '25800', '25800', '29000', '30000']"
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=7.0
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['33000', '20000', '25800', '25800', '29000', '30000']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['33000', '20000', '25800', '25800', '28000', '30000']"
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['34000', '20000', '25800', '25800', '28000', '30000']"
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=7.0
+thermal,thermal_002,INFORMATION,PL2(SYS_FS) = 12.0
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['33000', '20000', '25800', '25800', '29000', '30000']"
+c_states,CS_024,SUCCESS,platform supports new package state PC2_VOA in display off and freeze
+c_states,CS_026,SUCCESS,Turbostat & powertop are supported for the platform
+c_states,CS_027,SUCCESS,Device supports c_state residencies in the pmc driver
+c_states,CS_024,SUCCESS,platform supports new package state PC2_VOA in display off and freeze
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+c_states,CS_024,SUCCESS,platform supports new package state PC2_VOA in display off and freeze
+kernel_pm,kpm_003,SUCCESS,Actual_res_wakeupcount:3635
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_002,SUCCESS,Platform Supports CPU core & Package C state
+c_states,CS_003,FAILURE,PC8 PC10 counter are not Incrementing after display off
+c_states,CS_007,SUCCESS,PC8_count2:113012579867;PC8_count1:112986270126 platform support checking the cpu idle counters after an S0ix iteration
+c_states,CS_009,SUCCESS,"PC2_count2:129019657533;PC2_count1:129004506717 platform supports checking for C-state counters while running CPU intensive workload, after an S0ix iteration"
+c_states,CS_012,SUCCESS,PC8 PC10 are incrementing after S0ix transition
+c_states,CS_014,FAILURE,Platform doesnot support checking the hardware counter increment
+c_states,CS_016,SUCCESS,Platform supports checking all the C-state exit latency and target residency
+c_states,CS_020,SUCCESS,PC6 PC8 PC10 are incremneting while display is ON for PSR Panel
+c_states,CS_021,SUCCESS,"Platform enters in PC6, PC8 and PC10 C state while display is OFF for PSR Panel or NON PSR Panel"
+c_states,CS_025,SUCCESS,Package state PC2 for IDO gets incremented
+c_states,CS_026,SUCCESS,Turbostat & powertop are supported for the platform
+c_states,CS_027,SUCCESS,Device supports c_state residencies in the pmc driver
+c_states,CS_028,SUCCESS,Total number of core c-states are 4 which are POLL C1_ACPI C2_ACPI C3_ACPI 
+c_states,CS_029,FAILURE,core c-states are not intel enabled
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_035,FAILURE,HW P-state is not supported
+"s0ix_states,S0ix_001,SUCCESS, on powerd_dbus_suspend"
+s0ix_states,s0ix_007,SUCCESS on powerd_dbus_suspend
+s0ix_states,S0ix_024,SUCCESS,S0ix count is incrementing as expected
+display,display_002,FAILURE,display resolution is 1366x768 not 1920*1280
+display,display_005,FAILURE,Display doesn't support DRRS feature
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_007,FAILURE,Display is not entering  DC6 state  when display is On
+display,display_007,SUCCESS,Display enters DC6 state when display is Off
+display,display_009,SUCCESS,Display enters DC6 state when display is Off
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_021,FAILURE,Display is not supporting PSR2 Panels
+display,display_025,FAILURE,CD clock frequency = 172800 kHz not 307200kHz
+display,display_026,SUCCESS,display port is eDP-1
+display,display_028,FAILURE,display frequency is 60 not 60
+display,display_029,SUCCESS,Runtime power is enabled
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,FAILURE,dispaly dbc is disabled
+display,display_031,SUCCESS,display mst is enabled
+display,display_033,FAILURE,dispaly backlight is disabled
+display,display_034,SUCCESS,GUC is enabled
+display,display_035,SUCCESS,hangcheck is enabled
+display,display_035,SUCCESS,ips is enabled
+display,display_037,SUCCESS,Total number of VCS are 1
+display,display_038,SUCCESS,"Toatl 4 display connectors namely ['\t[CONNECTOR:215:eDP', 'CONNECTOR:215:eDP-1', 'CONNECTOR:222:DP-1]', 'CONNECTOR:233:DP-2]']"
+"graphics,graphics_006,FAILURE,GFX is not supporting frame buffer compression feature"
+graphics,graphics_009,SUCCESS, Total number of EUs are 16
+graphics,graphics_010,SUCCESS,GPU is idle
+graphics,graphics_011,SUCCESS,Huc is active and its version is 9.0.0
+graphics,graphics_012,SUCCESS,MESA version is 21.1.1-r26
+graphics,graphics_013,FAILURE,Render Buffer Compression is disabled
+graphics,graphics_014,FAILURE,Media Compression is disabled
+graphics,graphics_015,SUCCESS,minimum GPU frequency is 200 MHz
+graphics,graphics_016,SUCCESS,maximum GPU frequency is 750 MHz
+graphics,graphics_017,SUCCESS,Efficient GPU frequency is 300 MHz
+Device_pm,DPM_003,"SUCCESS,All PCIe devices have ASPM features enabled"
+Device_pm,DPM_004,FAILURE,LPC's auto power management is not enabled
+Device_pm,DPM_007,SUCCESS,out of 22 PCI device; 14 devices are in runtime suspended state when in idle
+Device_pm,DPM_008,"00.0 Host bridge
+ pci device is not in runtime suspended state when in idle"
+Device_pm,DPM_009,IntelCorporationDevice4e55(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_010,IntelCorporationDevice4e03 pci device is not in runtime suspended state when in idle
+Device_pm,DPM_011,SUCCESS,IntelCorporationDevice4e19 pci device is in runtime suspended state when in idle
+Device_pm,DPM_012,SUCCESS,IntelCorporationDevice4e11 pci device is in runtime suspended state when in idle
+Device_pm,DPM_013,SUCCESS,IntelCorporationDevice4ded(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_014,IntelCorporationDevice4def(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_015,IntelCorporationDevice4df0(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_016,SUCCESS,IntelCorporationDevice4df8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_017,SUCCESS,IntelCorporationDevice4de8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_018,SUCCESS,IntelCorporationDevice4de9(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_019,SUCCESS,IntelCorporationDevice4dea(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_020,SUCCESS,IntelCorporationDevice4deb(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_021,SUCCESS,IntelCorporationDevice4de0(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_022,SUCCESS,IntelCorporationDevice4dc5(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_023,IntelCorporationDevice4dc7(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_024,SUCCESS,IntelCorporationDevice4dc4(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_025,SUCCESS,IntelCorporationDevice4da8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_026,SUCCESS,IntelCorporationDevice4daa(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_027,IntelCorporationDevice4d87(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_028,SUCCESS,IntelCorporationDevice4dc8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_029,IntelCorporationDevice4da4(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_030,"FAILURE,PCI device NA"
+Device_pm,DPM_031,"FAILURE,PCI device NA"
+Device_pm,DPM_032,"FAILURE,PCI device NA"
+Device_pm,DPM_033,"FAILURE,PCI device NA"
+Device_pm,DPM_034,"FAILURE,PCI device NA"
+Device_pm,DPM_035,"FAILURE,PCI device NA"
+Device_pm,DPM_036,"FAILURE,PCI device NA"
+Device_pm,DPM_037,"FAILURE,PCI device NA"
+Device_pm,DPM_038,"FAILURE,PCI device NA"
+Device_pm,DPM_039,"FAILURE,PCI device NA"
+Device_pm,DPM_040,FAILURE,out of 8 intel-lpss drivers 1 not in runtime suspended state when in idle
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=7.0
+thermal,thermal_002,INFORMATION,PL2(SYS_FS) = 12.0
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['36000', '20000', '27800', '28800', '32000', '32000']"
+kernel_pm,kpm_002,SUCCESS,pm_async is enabled
+kernel_pm,kpm_003,SUCCESS,Actual_res_wakeupcount:3649
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_006,SUCCESS,pm_print_times is enabled
+kernel_pm,kpm_007,SUCCESS,Exp_freeze_timeout : 20000; Actual_freeze_timeout :20000
+kernel_pm,kpm_008,SUCCESS,supporting all wakeup sources
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_002,INFORMATION,Memory Size is 4096 MB
+Memory,mem_003,INFORMATION,Memory Speed is 4096 MT/S
+Memory,mem_004,INFORMATION,Memory Channel is Channel-0-DIMM-0
+Memory,mem_005,INFORMATION,Memory is 32 bits
+Memory,mem_08,SUCCESS,eMMC resume and display suspend resume are async
+display,display_002,FAILURE,display resolution is  0 0 0 0 not 1920*1280
+display,display_005,REBOOT,active CRT is required
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_007,SUCCESS,Display enters DC6 state  when display is On
+display,display_007,FAILURE,Display is not entering DC6 state when display is Off
+display,display_009,FAILURE,Display is not entering DC6 state when display is Off
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_021,FAILURE,Display is not supporting PSR2 Panels
+display,display_025,FAILURE,CD clock frequency = 172800 kHz not 307200kHz
+display,display_026,SUCCESS,display port is eDP-1
+display,display_028,FAILURE,display frequency is 0 not 60
+display,display_029,SUCCESS,Runtime power is enabled
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,FAILURE,dispaly dbc is disabled
+display,display_031,SUCCESS,display mst is enabled
+display,display_033,FAILURE,dispaly backlight is disabled
+display,display_034,SUCCESS,GUC is enabled
+display,display_035,SUCCESS,hangcheck is enabled
+display,display_035,SUCCESS,ips is enabled
+display,display_037,SUCCESS,Total number of VCS are 1
+display,display_038,SUCCESS,"Toatl 3 display connectors namely ['CONNECTOR:215:eDP-1', 'CONNECTOR:222:DP-1]', 'CONNECTOR:233:DP-2]']"
+c_states,CS_009,SUCCESS,"PC2_count2:139629020432;PC2_count1:139615527745 platform supports checking for C-state counters while running CPU intensive workload, after an S0ix iteration"
+Memory,mem_001,INFORMATION,Memory Rank is 1
+Device_pm,DPM_008,00.0 Host bridge pci device is not in runtime suspended state when in idle
+graphics,graphics_006,FAILURE,GFX is not supporting frame buffer compression feature
+thermal,thermal_014,FAILURE,DPTF disabled
+Device_pm,DPM_008,00.0 Host bridge pci device is not in runtime suspended state when in idle
+Memory,mem_001,INFORMATION,Memory Rank is 1
+Memory,mem_002,INFORMATION,Memory Size is 4096 MB
+Memory,mem_003,INFORMATION,Memory Speed is 4096 MT/S
+Memory,mem_004,INFORMATION,Memory Channel is Channel-0-DIMM-0
+Memory,mem_005,INFORMATION,Memory is 32 bits
+Memory,mem_008,SUCCESS,eMMC resume and display suspend resume are async
+Memory,mem_001,INFORMATION,Memory Rank is 1
+Memory,mem_002,INFORMATION,Memory Size is 4096 MB
+Memory,mem_003,INFORMATION,Memory Speed is 4096 MT/S
+Memory,mem_004,INFORMATION,Memory Channel is Channel-0-DIMM-0
+Memory,mem_005,INFORMATION,Memory is 32 bits
+Memory,mem_008,SUCCESS,eMMC resume and display suspend resume are async
+display,display_002,FAILURE,display resolution is  0 0 0 0 not 1920*1280
+display,display_005,REBOOT,active CRT is required
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_007,FAILURE,Display is not entering  DC6 state  when display is On
+display,display_007,FAILURE,Display is not entering DC6 state when display is Off
+display,display_009,FAILURE,Display is not entering DC6 state when display is Off
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_021,FAILURE,Display is not supporting PSR2 Panels
+display,display_025,FAILURE,CD clock frequency = 172800 kHz not 307200kHz
+display,display_026,SUCCESS,display port is eDP-1
+display,display_028,FAILURE,display frequency is 0 not 60
+display,display_029,SUCCESS,Runtime power is enabled
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,FAILURE,dispaly dbc is disabled
+display,display_031,SUCCESS,display mst is enabled
+display,display_033,FAILURE,dispaly backlight is disabled
+display,display_034,SUCCESS,GUC is enabled
+display,display_035,SUCCESS,hangcheck is enabled
+display,display_035,SUCCESS,ips is enabled
+display,display_037,SUCCESS,Total number of VCS are 1
+display,display_038,SUCCESS,"Toatl 3 display connectors namely ['CONNECTOR:215:eDP-1', 'CONNECTOR:222:DP-1]', 'CONNECTOR:233:DP-2]']"
+display,display_002,FAILURE,display resolution is  0 0 0 0 not 1920*1280
+display,display_005,REBOOT,active CRT is required
+display,display_002,FAILURE,display resolution is  0 0 0 0 not 1920*1280
+display,display_005,REBOOT,active CRT is required
+display,display_002,FAILURE,display resolution is  0 0 0 0 not 1920*1280
+display,display_005,REBOOT,active CRT is required
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_007,FAILURE,Display is not entering  DC6 state  when display is On
+display,display_026,SUCCESS,display port is eDP-1
+display,display_028,FAILURE,display frequency is 0 not 60
+display,display_029,SUCCESS,Runtime power is enabled
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,FAILURE,dispaly dbc is disabled
+display,display_031,SUCCESS,display mst is enabled
+display,display_033,FAILURE,dispaly backlight is disabled
+display,display_034,SUCCESS,GUC is enabled
+display,display_035,SUCCESS,hangcheck is enabled
+display,display_035,SUCCESS,ips is enabled
+display,display_037,SUCCESS,Total number of VCS are 1
+display,display_038,SUCCESS,"Toatl 3 display connectors namely ['CONNECTOR:215:eDP-1', 'CONNECTOR:222:DP-1]', 'CONNECTOR:233:DP-2]']"
+display,display_002,FAILURE,display resolution is  0 0 0 0 not 1920*1280
+display,display_002,FAILURE,display resolution is  0 0 0 0 not 1920*1280
+display,display_005,REBOOT,active CRT is required
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_007,FAILURE,Display is not entering  DC6 state  when display is On
+display,display_007,SUCCESS,Display enters DC6 state when display is Off
+display,display_009,FAILURE,Display is not entering DC6 state when display is Off
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_021,FAILURE,Display is not supporting PSR2 Panels
+display,display_025,FAILURE,CD clock frequency = 172800 kHz not 307200kHz
+display,display_026,SUCCESS,display port is eDP-1
+display,display_028,FAILURE,display frequency is 0 not 60
+display,display_029,SUCCESS,Runtime power is enabled
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,FAILURE,dispaly dbc is disabled
+display,display_031,SUCCESS,display mst is enabled
+display,display_033,FAILURE,dispaly backlight is disabled
+display,display_034,SUCCESS,GUC is enabled
+display,display_035,SUCCESS,hangcheck is enabled
+display,display_035,SUCCESS,ips is enabled
+display,display_037,SUCCESS,Total number of VCS are 1
+display,display_038,SUCCESS,"Toatl 3 display connectors namely ['CONNECTOR:215:eDP-1', 'CONNECTOR:222:DP-1]', 'CONNECTOR:233:DP-2]']"
+display,display_002,FAILURE,display resolution is  0 0 0 0 not 1920*1280
+display,display_025,FAILURE,CD clock frequency = 172800 kHz not 307200kHz
+display,display_026,SUCCESS,display port is eDP-1
+display,display_028,FAILURE,display frequency is 0 not 60
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,FAILURE,dispaly dbc is disabled
+display,display_031,SUCCESS,display mst is enabled
+display,display_033,FAILURE,dispaly backlight is disabled
+display,display_035,SUCCESS,ips is enabled
+display,display_037,SUCCESS,Total number of VCS are 1
+display,display_038,SUCCESS,"Toatl 3 display connectors namely ['CONNECTOR:215:eDP-1', 'CONNECTOR:222:DP-1]', 'CONNECTOR:233:DP-2]']"
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=7.0
+thermal,thermal_002,INFORMATION,PL2(SYS_FS) = 12.0
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['33000', '20000', '24800', '25800', '28000', '30000']"
+thermal,thermal_012,FAILURE,Fanless Platform
+graphics,graphics_006,FAILURE,GFX is not supporting frame buffer compression feature
+graphics,graphics_009,SUCCESS, Total number of EUs are 16
+graphics,graphics_010,SUCCESS,GPU is idle
+graphics,graphics_011,SUCCESS,Huc is active and its version is 9.0.0
+graphics,graphics_012,SUCCESS,MESA version is 21.1.1-r26
+graphics,graphics_013,FAILURE,Render Buffer Compression is disabled
+graphics,graphics_014,FAILURE,Media Compression is disabled
+graphics,graphics_015,SUCCESS,minimum GPU frequency is 200 MHz
+graphics,graphics_016,SUCCESS,maximum GPU frequency is 750 MHz
+graphics,graphics_017,SUCCESS,Efficient GPU frequency is 300 MHz
+display,display_002,FAILURE,display resolution is  0 0 0 0 not 1920*1280
+display,display_005,REBOOT,active CRT is required
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_007,FAILURE,Display is not entering  DC6 state  when display is On
+display,display_007,FAILURE,Display is not entering DC6 state when display is Off
+display,display_009,FAILURE,Display is not entering DC6 state when display is Off
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_021,FAILURE,Display is not supporting PSR2 Panels
+display,display_025,FAILURE,CD clock frequency = 172800 kHz not 307200kHz
+display,display_026,SUCCESS,display port is eDP-1
+display,display_028,FAILURE,display frequency is 0 not 60
+display,display_029,SUCCESS,Runtime power is enabled
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,FAILURE,dispaly dbc is disabled
+display,display_031,SUCCESS,display mst is enabled
+display,display_033,FAILURE,dispaly backlight is disabled
+display,display_034,SUCCESS,GUC is enabled
+display,display_035,SUCCESS,hangcheck is enabled
+display,display_035,SUCCESS,ips is enabled
+display,display_037,SUCCESS,Total number of VCS are 1
+display,display_038,SUCCESS,"Toatl 3 display connectors namely ['CONNECTOR:215:eDP-1', 'CONNECTOR:222:DP-1]', 'CONNECTOR:233:DP-2]']"
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=7.0
+thermal,thermal_002,INFORMATION,PL2(SYS_FS) = 12.0
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_012,FAILURE,Fanless Platform
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['33000', '20000', '24800', '24800', '27000', '30000']"
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=7.0
+thermal,thermal_002,INFORMATION,PL2(SYS_FS) = 12.0
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_012,FAILURE,Fanless Platform
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['34000', '20000', '25800', '25800', '28000', '30000']"
+thermal,thermal_014,FAILURE,DPTF disabled
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Device_pm,DPM_041,INFORMATIVE,PCI ID for platform
+Device_pm,DPM_041,INFORMATIVE,PCI ID for platform
+Device_pm,DPM_041,INFORMATIVE,PCI ID for platform
+Device_pm,DPM_042,SUCCESS,EPP is supported by the platform
+Device_pm,DPM_042,SUCCESS,EPP is supported by the platform
+Device_pm,DPM_042,FAILURE,EPP is not supported by the platform
+Device_pm,DPM_042,FAILURE,EPP is not supported by the platform and status of EPP is not default
+Device_pm,DPM_042,FAILURE,EPP is not supported by the platform and status of EPP is not default
+Device_pm,DPM_042,FAILURE,EPP is not supported by the platform and status of EPP is not default
+Device_pm,DPM_042,SUCCESS,EPP is supported by the platform and status of EPP is default
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=7.0
+thermal,thermal_002,INFORMATION,PL2(SYS_FS) = 12.0
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_012,FAILURE,Fanless Platform
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['42000', '20000', '28800', '28800', '42000', '34000']"
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_002,SUCCESS,Platform Supports CPU core & Package C state
+c_states,CS_003,SUCCESS,PC8 PC10 counter is Incrementing after display off
+c_states,CS_007,SUCCESS,PC8_count2:1896200901;PC8_count1:1861246177 platform support checking the cpu idle counters after an S0ix iteration
+c_states,CS_009,SUCCESS,"PC2_count2:1184896000;PC2_count1:1174538996 platform supports checking for C-state counters while running CPU intensive workload, after an S0ix iteration"
+c_states,CS_010,SUCCESS,PC2_count2:1196141008;PC2_count1:1186565135 platform support checking the C-state counters while running CPU intensive workload
+c_states,CS_012,SUCCESS,PC8 PC10 are incrementing after S0ix transition
+c_states,CS_014,SUCCESS,Platform supports checking the hardware counter increment
+c_states,CS_016,SUCCESS,Platform supports checking all the C-state exit latency and target residency
+c_states,CS_020,SUCCESS,PC6 PC8 PC10 are incremneting while display is ON for PSR Panel
+c_states,CS_021,SUCCESS,"Platform enters in PC6, PC8 and PC10 C state while display is OFF for PSR Panel or NON PSR Panel"
+c_states,CS_024,SUCCESS,platform supports new package state PC2_VOA in display off and freeze
+c_states,CS_025,SUCCESS,Package state PC2 for IDO gets incremented
+c_states,CS_027,SUCCESS,Device supports c_state residencies in the pmc driver
+c_states,CS_029,FAILURE,core c-states are not intel enabled
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_035,FAILURE,HW P-state is not supported
+s0ix_states,S0ix_001,SUCCESS,on powerd_dbus_suspend
+s0ix_states,s0ix_007,SUCCESS on powerd_dbus_suspend
+s0ix_states,S0ix_024,SUCCESS,S0ix count is incrementing as expected
+graphics,graphics_006,FAILURE,GFX is not supporting frame buffer compression feature
+graphics,graphics_009,SUCCESS, Total number of EUs are 16
+graphics,graphics_010,SUCCESS,GPU is idle
+graphics,graphics_011,SUCCESS,Huc is active and its version is 9.0.0
+graphics,graphics_012,SUCCESS,MESA version is 21.1.1-r26
+graphics,graphics_013,SUCCESS,Render Buffer Compression is enabled
+graphics,graphics_014,FAILURE,Media Compression is disabled
+graphics,graphics_015,SUCCESS,minimum GPU frequency is 200 MHz
+graphics,graphics_016,SUCCESS,maximum GPU frequency is 750 MHz
+graphics,graphics_017,SUCCESS,Efficient GPU frequency is 300 MHz
+display,display_002,FAILURE,display resolution is 1366x768 not 1920*1280
+display,display_005,FAILURE,Display doesn't support DRRS feature
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_007,FAILURE,Display is not entering  DC6 state  when display is On
+display,display_007,SUCCESS,Display enters DC6 state when display is Off
+display,display_009,SUCCESS,Display enters DC6 state when display is Off
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_021,FAILURE,Display is not supporting PSR2 Panels
+display,display_025,FAILURE,CD clock frequency = 172800 kHz not 307200kHz
+display,display_026,SUCCESS,display port is eDP-1
+display,display_028,FAILURE,display frequency is 0 not 60
+display,display_029,SUCCESS,Runtime power is enabled
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,FAILURE,dispaly dbc is disabled
+display,display_031,SUCCESS,display mst is enabled
+display,display_033,FAILURE,dispaly backlight is disabled
+display,display_034,SUCCESS,GUC is enabled
+display,display_035,SUCCESS,hangcheck is enabled
+display,display_035,SUCCESS,ips is enabled
+display,display_037,SUCCESS,Total number of VCS are 1
+display,display_038,SUCCESS,"Toatl 3 display connectors namely ['CONNECTOR:215:eDP-1', 'CONNECTOR:222:DP-1]', 'CONNECTOR:233:DP-2]']"
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=7.0
+thermal,thermal_002,INFORMATION,PL2(SYS_FS) = 12.0
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_012,FAILURE,Fanless Platform
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['37000', '20000', '28800', '29800', '32000', '35000']"
+Device_pm,DPM_003,"SUCCESS,All PCIe devices have ASPM features enabled"
+Device_pm,DPM_004,FAILURE,LPC's auto power management is not enabled
+Device_pm,DPM_007,SUCCESS,out of 22 PCI device; 14 devices are in runtime suspended state when in idle
+Device_pm,DPM_008,00.0 Host bridge pci device is not in runtime suspended state when in idle
+Device_pm,DPM_009,IntelCorporationDevice4e55(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_010,IntelCorporationDevice4e03 pci device is not in runtime suspended state when in idle
+Device_pm,DPM_011,SUCCESS,IntelCorporationDevice4e19 pci device is in runtime suspended state when in idle
+Device_pm,DPM_012,SUCCESS,IntelCorporationDevice4e11 pci device is in runtime suspended state when in idle
+Device_pm,DPM_013,SUCCESS,IntelCorporationDevice4ded(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_014,IntelCorporationDevice4def(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_015,IntelCorporationDevice4df0(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_016,SUCCESS,IntelCorporationDevice4df8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_017,SUCCESS,IntelCorporationDevice4de8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_018,SUCCESS,IntelCorporationDevice4de9(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_019,SUCCESS,IntelCorporationDevice4dea(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_020,SUCCESS,IntelCorporationDevice4deb(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_021,SUCCESS,IntelCorporationDevice4de0(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_022,SUCCESS,IntelCorporationDevice4dc5(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_023,IntelCorporationDevice4dc7(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_024,SUCCESS,IntelCorporationDevice4dc4(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_025,SUCCESS,IntelCorporationDevice4da8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_026,SUCCESS,IntelCorporationDevice4daa(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_027,IntelCorporationDevice4d87(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_028,SUCCESS,IntelCorporationDevice4dc8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_029,IntelCorporationDevice4da4(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_030,FAILURE,PCI device NA
+Device_pm,DPM_031,FAILURE,PCI device NA
+Device_pm,DPM_032,FAILURE,PCI device NA
+Device_pm,DPM_033,FAILURE,PCI device NA
+Device_pm,DPM_034,FAILURE,PCI device NA
+Device_pm,DPM_035,FAILURE,PCI device NA
+Device_pm,DPM_036,FAILURE,PCI device NA
+Device_pm,DPM_037,FAILURE,PCI device NA
+Device_pm,DPM_038,FAILURE,PCI device NA
+Device_pm,DPM_039,FAILURE,PCI device NA
+Device_pm,DPM_040,FAILURE,out of 8 intel-lpss drivers 1 not in runtime suspended state when in idle
+kernel_pm,kpm_002,SUCCESS,pm_async is enabled
+kernel_pm,kpm_003,SUCCESS,Actual_res_wakeupcount:36
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_006,SUCCESS,pm_print_times is enabled
+kernel_pm,kpm_007,SUCCESS,Exp_freeze_timeout : 20000; Actual_freeze_timeout :20000
+kernel_pm,kpm_008,SUCCESS,supporting all wakeup sources
+cpu_hotplug,cpu_hp_002,SUCCESS,Possible core :0-1 
+cpu_hotplug,cpu_hp_003,SUCCESS,"current_driver = intel_idle , current_governor_ro = teo"
+cpu_hotplug,cpu_hp_005,SUCCESS,min cpu freq=800000; max cpu freq=2800000 and base cpu freq=1100000
+performance,perf_013,SUCCESS,During ido no Prochot Assertion due to CPU
+performance,perf_014,SUCCESS,During ido no thermal Throttling due to CPU
+performance,perf_015,SUCCESS,During ido no resicendy State Regulation Throttling due to CPU
+performance,perf_016,SUCCESS,"Test Case ID perf_016: During ido, check RATL Throttling due to CPU"
+performance,perf_017,SUCCESS,During ido no thermal Alert from Processor VR due to CPU
+performance,perf_018,SUCCESS,During ido no VR TDC Throttling due to CPU
+performance,perf_019,SUCCESS,During ido no throttling due to electrical constraint due to CPU
+performance,perf_020,SUCCESS,During ido No PL1 Throttling due to CPU
+performance,perf_021,SUCCESS,During ido No PL2 Throttling due to CPU
+performance,perf_022,SUCCESS,During ido No throttling due to MaxTurbo Limit Status due to CPU
+performance,perf_023,SUCCESS,During ido No throttling due to Turbo Tau due to CPU
+performance,perf_024,FAILURE,During ido PROCHOT assertion due to GPU
+performance,perf_025,SUCCESS,During ido No thermal throttling due to GPU
+performance,perf_026,SUCCESS,During ido No RATL throttling due to GPU
+performance,perf_027,SUCCESS,During ido No thermal alert from processor VR due to GPU
+performance,perf_028,SUCCESS,During ido No throttling due to VR TDC limit due to GPU
+performance,perf_029,SUCCESS,During ido No throttling due During ido No PL1 throttling due to GPU
+performance,perf_030,SUCCESS,During ido No PL2 throttling due to GPU
+performance,perf_031,SUCCESS,During ido No throttling due to electrical constraint due to GPU
+performance,perf_032,SUCCESS,During ido No PROCHOT assertion due to RING
+performance,perf_033,SUCCESS,During ido No thermal throttling due to RING
+performance,perf_034,SUCCESS,During ido No RATL throttling due to RING
+performance,perf_035,SUCCESS,During ido No Thermal alert from processor VR due to RING
+performance,perf_036,SUCCESS,During ido No throttling due to VR TDC limit due to RING
+performance,perf_037,SUCCESS,During ido No PL1 throttling due to RING
+performance,perf_038,SUCCESS,During ido No PL2 throttling due to RING
+performance,perf_039,SUCCESS,During ido No throttling due to electrical constraint due to RING
+performance,perf_040,SUCCESS,During stress ng test No Prochot Assertion due to CPU
+performance,perf_041,SUCCESS,During stress ng test No Thermal Throttling due to CPU
+performance,perf_042,SUCCESS,During stress ng test No Resicendy State Regulation Throttling due to CPU
+performance,perf_043,SUCCESS,During stress ng test No RATL Throttling due to CPU
+performance,perf_044,SUCCESS,During stress ng test No Thermal Alert from Processor VR due to CPU
+performance,perf_045,SUCCESS,During stress ng test No VR TDC Throttling due to CPU
+performance,perf_046,SUCCESS,During stress ng test No Throttling due to electrical constraint due to CPU
+performance,perf_047,SUCCESS,During stress ng test No PL1 Throttling due to CPU
+performance,perf_048,SUCCESS,During stress ng test No PL2 Throttling due to CPU
+performance,perf_049,SUCCESS,During stress ng test No Throttling due to MaxTurbo Limit Status due to CPU
+performance,perf_051,SUCCESS,During stress ng test No PROCHOT assertion due to GPU
+performance,perf_052,SUCCESS,During stress ng test No Thermal throttling due to GPU
+performance,perf_053,SUCCESS,During stress ng test No RATL throttling due to GPU
+performance,perf_054,SUCCESS,During stress ng test No Thermal alert from processor VR due to GPU
+performance,perf_055,SUCCESS,During stress ng test No Throttling due to VR TDC limit due to GPU
+performance,perf_056,SUCCESS,During stress ng test No PL1 throttling due to GPU
+performance,perf_057,SUCCESS,During stress ng test No PL2 throttling due to GPU
+performance,perf_058,SUCCESS,During stress ng test No Throttling due to electrical constraint due to GPU
+performance,perf_059,SUCCESS,During stress ng test No PROCHOT assertion due to RING
+performance,perf_060,SUCCESS,During stress ng test No Thermal throttling due to RING
+performance,perf_061,SUCCESS,During stress ng test No RATL throttling due to RING
+performance,perf_062,SUCCESS,During stress ng test No Thermal alert from processor VR due to RING
+performance,perf_063,SUCCESS,During stress ng test No Throttling due to VR TDC limit due to RING
+performance,perf_064,SUCCESS,During stress ng test No PL1 throttling due to RING
+performance,perf_065,SUCCESS,During stress ng test No PL2 throttling due to RING
+performance,perf_066,SUCCESS,During stress ng test No Throttling due to electrical constraint due to RING
+Memory,mem_001,INFORMATION,Memory Rank is 1
+Memory,mem_002,INFORMATION,Memory Size is 4096 MB
+Memory,mem_003,INFORMATION,Memory Speed is 4096 MT/S
+Memory,mem_004,INFORMATION,Memory Channel is Channel-0-DIMM-0
+Memory,mem_005,INFORMATION,Memory is 32 bits
+Memory,mem_008,SUCCESS,eMMC resume and display suspend resume are async
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,"INFORMATION,Memory Rank is 1"
+Memory,mem_001,INFORMATION,Memory Rank is 1
+Memory,mem_002,INFORMATION,Memory Size is 4096 MB
+Memory,mem_003,INFORMATION,Memory Speed is 4096 MT/S
+Memory,mem_004,INFORMATION,Memory Channel is Channel-0-DIMM-0
+Memory,mem_005,INFORMATION,Memory is 32 bits
+Memory,mem_008,SUCCESS,eMMC resume and display suspend resume are async
+Memory,mem_001,INFORMATION,Memory Rank is 1
+Memory,mem_002,INFORMATION,Memory Size is 4096 MB
+Memory,mem_003,INFORMATION,Memory Speed is 4096 MT/S
+Memory,mem_004,INFORMATION,Memory Channel is Channel-0-DIMM-0
+Memory,mem_005,INFORMATION,Memory is 32 bits
+Memory,mem_008,SUCCESS,eMMC resume and display suspend resume are async
+c_states,CS_001,SUCCESS,Platform supports cpuidle framework
+c_states,CS_002,SUCCESS,Platform Supports CPU core & Package C state
+c_states,CS_003,SUCCESS,PC8 PC10 counter is Incrementing after display off
+c_states,CS_007,SUCCESS,PC8_count2:54142080266;PC8_count1:54117202753 platform support checking the cpu idle counters after an S0ix iteration
+c_states,CS_009,SUCCESS,"PC2_count2:62242120028;PC2_count1:62226800164 platform supports checking for C-state counters while running CPU intensive workload, after an S0ix iteration"
+c_states,CS_010,SUCCESS,PC2_count2:62259764909;PC2_count1:62244671791 platform support checking the C-state counters while running CPU intensive workload
+c_states,CS_012,SUCCESS,PC8 PC10 are incrementing after S0ix transition
+c_states,CS_014,SUCCESS,Platform supports checking the hardware counter increment
+c_states,CS_016,SUCCESS,Platform supports checking all the C-state exit latency and target residency
+c_states,CS_020,SUCCESS,PC6 PC8 PC10 are incremneting while display is ON for PSR Panel
+c_states,CS_021,SUCCESS,"Platform enters in PC6, PC8 and PC10 C state while display is OFF for PSR Panel or NON PSR Panel"
+c_states,CS_024,SUCCESS,platform supports new package state PC2_VOA in display off and freeze
+c_states,CS_025,SUCCESS,Package state PC2 for IDO gets incremented
+c_states,CS_027,SUCCESS,Device supports c_state residencies in the pmc driver
+c_states,CS_029,FAILURE,core c-states are not intel enabled
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_035,FAILURE,HW P-state is not supported
+s0ix_states,S0ix_001,SUCCESS,on powerd_dbus_suspend
+s0ix_states,s0ix_007,SUCCESS on powerd_dbus_suspend
+s0ix_states,S0ix_024,SUCCESS,S0ix count is incrementing as expected
+graphics,graphics_006,FAILURE,GFX is not supporting frame buffer compression feature
+graphics,graphics_009,SUCCESS, Total number of EUs are 16
+graphics,graphics_010,SUCCESS,GPU is idle
+graphics,graphics_011,SUCCESS,Huc is active and its version is 9.0.0
+graphics,graphics_012,SUCCESS,MESA version is 21.1.1-r26
+graphics,graphics_013,SUCCESS,Render Buffer Compression is enabled
+graphics,graphics_014,FAILURE,Media Compression is disabled
+graphics,graphics_015,SUCCESS,minimum GPU frequency is 200 MHz
+graphics,graphics_016,SUCCESS,maximum GPU frequency is 750 MHz
+graphics,graphics_017,SUCCESS,Efficient GPU frequency is 300 MHz
+display,display_002,FAILURE,display resolution is 1366x768 not 1920*1280
+display,display_005,FAILURE,Display doesn't support DRRS feature
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_007,FAILURE,Display is not entering  DC6 state  when display is On
+display,display_007,SUCCESS,Display enters DC6 state when display is Off
+display,display_009,SUCCESS,Display enters DC6 state when display is Off
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_021,FAILURE,Display is not supporting PSR2 Panels
+display,display_025,FAILURE,CD clock frequency = 172800 kHz not 307200kHz
+display,display_026,SUCCESS,display port is eDP-1
+display,display_028,FAILURE,display frequency is 0 not 60
+display,display_029,SUCCESS,Runtime power is enabled
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,FAILURE,dispaly dbc is disabled
+display,display_031,SUCCESS,display mst is enabled
+display,display_033,FAILURE,dispaly backlight is disabled
+display,display_034,SUCCESS,GUC is enabled
+display,display_035,SUCCESS,hangcheck is enabled
+display,display_035,SUCCESS,ips is enabled
+display,display_037,SUCCESS,Total number of VCS are 1
+display,display_038,SUCCESS,"Toatl 3 display connectors namely ['CONNECTOR:215:eDP-1', 'CONNECTOR:222:DP-1]', 'CONNECTOR:233:DP-2]']"
+thermal,thermal_001,INFORMATION,PL1(SYS_FS)=7.0
+thermal,thermal_002,INFORMATION,PL2(SYS_FS) = 12.0
+thermal,thermal_003,INFORMATION,PL1(MSR) = 7.0
+thermal,thermal_004,INFORMATION,PL2(MSR) = 12.0
+thermal,thermal_007,INFORMATION,PL1 Time Window(SYS_FS)=9.9942399999999996
+thermal,thermal_008,INFORMATION,PL2 Time Window(SYS_FS)=0.00097599999999999998
+thermal,thermal_009,INFORMATION,PL1 Time Window(MSR) = 1.0
+thermal,thermal_010,INFORMATION,PL2 Time Window(MSR) = 0.0009765625
+thermal,thermal_011,INFORMATION,Battery energy is 44.198 Wh
+thermal,thermal_012,FAILURE,Fanless Platform
+thermal,thermal_013,SUCCESS,RAPL enabled
+thermal,thermal_014,SUCCESS,DPTF enabled
+thermal,thermal_015,SUCCESS,"Total 2 Thermal sensors namely ['Memory', 'Ambient']"
+thermal,thermal_016,SUCCESS,"Total 6 Thermal zones namely ['x86_pkg_temp', 'INT3400 Thermal', 'TSR0', 'TSR1', 'TCPU', 'iwlwifi_1']"
+thermal,thermal_017,SUCCESS,"Tempratures of 6 zones are ['37000', '20000', '28800', '29800', '32000', '33000']"
+Device_pm,DPM_003,"SUCCESS,All PCIe devices have ASPM features enabled"
+Device_pm,DPM_004,FAILURE,LPC's auto power management is not enabled
+Device_pm,DPM_007,SUCCESS,out of 22 PCI device; 14 devices are in runtime suspended state when in idle
+Device_pm,DPM_008,00.0 Host bridge pci device is not in runtime suspended state when in idle
+Device_pm,DPM_009,IntelCorporationDevice4e55(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_010,IntelCorporationDevice4e03 pci device is not in runtime suspended state when in idle
+Device_pm,DPM_011,SUCCESS,IntelCorporationDevice4e19 pci device is in runtime suspended state when in idle
+Device_pm,DPM_012,SUCCESS,IntelCorporationDevice4e11 pci device is in runtime suspended state when in idle
+Device_pm,DPM_013,SUCCESS,IntelCorporationDevice4ded(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_014,IntelCorporationDevice4def(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_015,IntelCorporationDevice4df0(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_016,SUCCESS,IntelCorporationDevice4df8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_017,SUCCESS,IntelCorporationDevice4de8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_018,SUCCESS,IntelCorporationDevice4de9(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_019,SUCCESS,IntelCorporationDevice4dea(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_020,SUCCESS,IntelCorporationDevice4deb(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_021,SUCCESS,IntelCorporationDevice4de0(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_022,SUCCESS,IntelCorporationDevice4dc5(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_023,IntelCorporationDevice4dc7(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_024,SUCCESS,IntelCorporationDevice4dc4(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_025,SUCCESS,IntelCorporationDevice4da8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_026,SUCCESS,IntelCorporationDevice4daa(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_027,IntelCorporationDevice4d87(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_028,SUCCESS,IntelCorporationDevice4dc8(rev01) pci device is in runtime suspended state when in idle
+Device_pm,DPM_029,IntelCorporationDevice4da4(rev01) pci device is not in runtime suspended state when in idle
+Device_pm,DPM_030,FAILURE,PCI device NA
+Device_pm,DPM_031,FAILURE,PCI device NA
+Device_pm,DPM_032,FAILURE,PCI device NA
+Device_pm,DPM_033,FAILURE,PCI device NA
+Device_pm,DPM_034,FAILURE,PCI device NA
+Device_pm,DPM_035,FAILURE,PCI device NA
+Device_pm,DPM_036,FAILURE,PCI device NA
+Device_pm,DPM_037,FAILURE,PCI device NA
+Device_pm,DPM_038,FAILURE,PCI device NA
+Device_pm,DPM_039,FAILURE,PCI device NA
+Device_pm,DPM_040,FAILURE,out of 8 intel-lpss drivers 1 not in runtime suspended state when in idle
+kernel_pm,kpm_002,SUCCESS,pm_async is enabled
+kernel_pm,kpm_003,SUCCESS,Actual_res_wakeupcount:86
+kernel_pm,kpm_004,SUCCESS,It follows the Chrome OS Inactive Delay Power Policy
+kernel_pm,kpm_006,SUCCESS,pm_print_times is enabled
+kernel_pm,kpm_007,SUCCESS,Exp_freeze_timeout : 20000; Actual_freeze_timeout :20000
+kernel_pm,kpm_008,SUCCESS,supporting all wakeup sources
+cpu_hotplug,cpu_hp_002,SUCCESS,Possible core :0-1 
+cpu_hotplug,cpu_hp_003,SUCCESS,"current_driver = intel_idle , current_governor_ro = teo"
+cpu_hotplug,cpu_hp_005,SUCCESS,min cpu freq=800000; max cpu freq=2800000 and base cpu freq=1100000
+performance,perf_013,SUCCESS,During ido no Prochot Assertion due to CPU
+performance,perf_014,SUCCESS,During ido no thermal Throttling due to CPU
+performance,perf_015,SUCCESS,During ido no resicendy State Regulation Throttling due to CPU
+performance,perf_016,SUCCESS,"Test Case ID perf_016: During ido, check RATL Throttling due to CPU"
+performance,perf_017,SUCCESS,During ido no thermal Alert from Processor VR due to CPU
+performance,perf_018,SUCCESS,During ido no VR TDC Throttling due to CPU
+performance,perf_019,SUCCESS,During ido no throttling due to electrical constraint due to CPU
+performance,perf_020,SUCCESS,During ido No PL1 Throttling due to CPU
+performance,perf_021,SUCCESS,During ido No PL2 Throttling due to CPU
+performance,perf_022,SUCCESS,During ido No throttling due to MaxTurbo Limit Status due to CPU
+performance,perf_023,SUCCESS,During ido No throttling due to Turbo Tau due to CPU
+performance,perf_024,FAILURE,During ido PROCHOT assertion due to GPU
+performance,perf_025,SUCCESS,During ido No thermal throttling due to GPU
+performance,perf_026,SUCCESS,During ido No RATL throttling due to GPU
+performance,perf_027,SUCCESS,During ido No thermal alert from processor VR due to GPU
+performance,perf_028,SUCCESS,During ido No throttling due to VR TDC limit due to GPU
+performance,perf_029,SUCCESS,During ido No throttling due During ido No PL1 throttling due to GPU
+performance,perf_030,SUCCESS,During ido No PL2 throttling due to GPU
+performance,perf_031,SUCCESS,During ido No throttling due to electrical constraint due to GPU
+performance,perf_032,SUCCESS,During ido No PROCHOT assertion due to RING
+performance,perf_033,SUCCESS,During ido No thermal throttling due to RING
+performance,perf_034,SUCCESS,During ido No RATL throttling due to RING
+performance,perf_035,SUCCESS,During ido No Thermal alert from processor VR due to RING
+performance,perf_036,SUCCESS,During ido No throttling due to VR TDC limit due to RING
+performance,perf_037,SUCCESS,During ido No PL1 throttling due to RING
+performance,perf_038,SUCCESS,During ido No PL2 throttling due to RING
+performance,perf_039,SUCCESS,During ido No throttling due to electrical constraint due to RING
+performance,perf_040,SUCCESS,During stress ng test No Prochot Assertion due to CPU
+performance,perf_041,SUCCESS,During stress ng test No Thermal Throttling due to CPU
+performance,perf_042,SUCCESS,During stress ng test No Resicendy State Regulation Throttling due to CPU
+performance,perf_043,SUCCESS,During stress ng test No RATL Throttling due to CPU
+performance,perf_044,SUCCESS,During stress ng test No Thermal Alert from Processor VR due to CPU
+performance,perf_045,SUCCESS,During stress ng test No VR TDC Throttling due to CPU
+performance,perf_046,SUCCESS,During stress ng test No Throttling due to electrical constraint due to CPU
+performance,perf_047,SUCCESS,During stress ng test No PL1 Throttling due to CPU
+performance,perf_048,SUCCESS,During stress ng test No PL2 Throttling due to CPU
+performance,perf_049,SUCCESS,During stress ng test No Throttling due to MaxTurbo Limit Status due to CPU
+performance,perf_051,SUCCESS,During stress ng test No PROCHOT assertion due to GPU
+performance,perf_052,SUCCESS,During stress ng test No Thermal throttling due to GPU
+performance,perf_053,SUCCESS,During stress ng test No RATL throttling due to GPU
+performance,perf_054,SUCCESS,During stress ng test No Thermal alert from processor VR due to GPU
+performance,perf_055,SUCCESS,During stress ng test No Throttling due to VR TDC limit due to GPU
+performance,perf_056,SUCCESS,During stress ng test No PL1 throttling due to GPU
+performance,perf_057,SUCCESS,During stress ng test No PL2 throttling due to GPU
+performance,perf_058,SUCCESS,During stress ng test No Throttling due to electrical constraint due to GPU
+performance,perf_059,SUCCESS,During stress ng test No PROCHOT assertion due to RING
+performance,perf_060,SUCCESS,During stress ng test No Thermal throttling due to RING
+performance,perf_061,SUCCESS,During stress ng test No RATL throttling due to RING
+performance,perf_062,SUCCESS,During stress ng test No Thermal alert from processor VR due to RING
+performance,perf_063,SUCCESS,During stress ng test No Throttling due to VR TDC limit due to RING
+performance,perf_064,SUCCESS,During stress ng test No PL1 throttling due to RING
+performance,perf_065,SUCCESS,During stress ng test No PL2 throttling due to RING
+performance,perf_066,SUCCESS,During stress ng test No Throttling due to electrical constraint due to RING
+p_states,PS_001,SUCCESS,OS is supporting cpufreq framework
+p_states,PS_002,SUCCESS,Frequencies supported by cpu
+p_states,PS_005,FAILURE,Affected CPU interface is working as expected
+p_states,PS_007,SUCCESS,OS supports checking the minimum P-state of the platform
+p_states,PS_008,SUCCESS,OS supports checking the maximum P-state of the platform
+p_states,PS_009,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_010,SUCCESS,scaling_cur_freq is matching with LFM for CPU
+p_states,PS_011,SUCCESS,OS supports checking the minimum scaling P-state
+p_states,PS_012,SUCCESS,OS supports checking the maximum scaling P-state
+p_states,PS_015,SUCCESS,Supports P-state transition latency
+p_states,PS_016,SUCCESS,OS supports displaying the POR governor
+p_states,PS_017,SUCCESS,Related CPU interface is working as expected
+p_states,PS_023,SUCCESS,Turbo feature is enabled
+p_states,PS_035,FAILURE,HW P-state is not supported
+c_states,CS_024,SUCCESS,platform supports new package state PC2_VOA in display off and freeze
+performance,perf_067,FAILURE,During stress ng test scaling frequency is not greater than 800 MHz
+performance,perf_067,FAILURE,During stress ng test scaling frequency is not greater than 800 MHz
+performance,perf_067,FAILURE,During stress ng test scaling frequency is not greater than 800 MHz
+performance,perf_067,FAILURE,During stress ng test scaling frequency is not greater than 800 MHz
+performance,perf_067,SUCCESS,During stress ng test scaling frequency is greater than 800 MHz
+performance,perf_067,SUCCESS,During stress ng test scaling frequency is greater than 800 MHz
+performance,perf_067,FAILURE,During stress ng test scaling frequency is not greater than 800 MHz
+performance,perf_067,FAILURE,During stress ng test scaling frequency is not greater than 800 MHz
+performance,perf_069,FAILURE,Reboot sysytem and run
+performance,perf_069,FAILURE,Reboot sysytem and run
+performance,perf_069,FAILURE,Reboot sysytem and run
+performance,perf_069,FAILURE,Reboot sysytem and run
+performance,perf_067,FAILURE,During stress ng test scaling frequency is not greater than 800 MHz
+performance,perf_069,FAILURE,Reboot sysytem and run
+performance,perf_069,FAILURE,Reboot sysytem and run
+performance,perf_069,FAILURE,Reboot sysytem and run
+performance,perf_069,FAILURE,Reboot sysytem and run
+performance,perf_069,FAILURE,Reboot sysytem and run
+Memory,mem_001,INFORMATION,Memory Rank is 1
+Memory,mem_002,INFORMATION,Memory Size is 4096 MB
+Memory,mem_003,INFORMATION,Memory Speed is 4096 MT/S
+Memory,mem_004,INFORMATION,Memory Channel is Channel-0-DIMM-0
+Memory,mem_005,INFORMATION,Memory is 32 bits
+Memory,mem_008,SUCCESS,eMMC resume and display suspend resume are async
+Memory,mem_001,INFORMATION,Memory Rank is 1
+Memory,mem_002,INFORMATION,Memory Size is 4096 MB
+Memory,mem_003,INFORMATION,Memory Speed is 4096 MT/S
+Memory,mem_004,INFORMATION,Memory Channel is Channel-0-DIMM-0
+Memory,mem_005,INFORMATION,Memory is 32 bits
+Memory,mem_008,SUCCESS,eMMC resume and display suspend resume are async
+graphics,graphics_014,FAILURE,Media Compression is disabled
+display,display_002,FAILURE,display resolution is  0 0 0 0 not 1920*1280
+display,display_002,FAILURE,display resolution is  0 0 0 0 not 1920*1280
+display,display_002,FAILURE,display resolution is  0 0 0 0 not 1920*1280
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_006,FAILURE,Display is not entering  DC5 state  when display is On
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,SUCCESS,display mst is enabled
+kernel_pm,kpm_002,SUCCESS,pm_async is enabled
+kernel_pm,kpm_006,SUCCESS,pm_print_times is enabled
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,SUCCESS,display mst is enabled
+kernel_pm,kpm_002,SUCCESS,pm_async is enabled
+kernel_pm,kpm_006,SUCCESS,pm_print_times is enabled
+display,display_009,FAILURE,Display is not entering DC6 state when display is Off
+display,display_011,FAILURE,Display is not supporting PSR Panels
+display,display_030,FAILURE,dispaly counter is disabled
+display,display_031,SUCCESS,display mst is enabled
+kernel_pm,kpm_002,SUCCESS,pm_async is enabled
+kernel_pm,kpm_006,SUCCESS,pm_print_times is enabled

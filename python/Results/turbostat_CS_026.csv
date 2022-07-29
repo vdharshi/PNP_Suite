@@ -1,0 +1,68 @@
+turbostat version 20.09.30 - Len Brown <lenb@kernel.org>
+CPUID(0): GenuineIntel 0x1b CPUID levels; 0x80000008 xlevels; family:model:stepping 0x6:9c:0 (6:156:0)
+CPUID(1): SSE3 MONITOR - EIST TM2 TSC MSR ACPI-TM HT TM
+CPUID(6): APERF, TURBO, DTS, PTM, HWP, HWPnotify, HWPwindow, HWPepp, HWPpkg, EPB
+cpu0: MSR_IA32_MISC_ENABLE: 0x00850089 (TCC EIST MWAIT PREFETCH TURBO)
+CPUID(7): No-SGX
+CPUID(0x15): eax_crystal: 2 ebx_tsc: 58 ecx_crystal_hz: 38400000
+TSC: 1113 MHz (38400000 Hz * 58 / 2 / 1000000)
+CPUID(0x16): base_mhz: 1100 max_mhz: 2800 bus_mhz: 100
+cpu0: MSR_MISC_PWR_MGMT: 0x004010c0 (ENable-EIST_Coordination DISable-EPB DISable-OOB)
+RAPL: 43691 sec. Joule Counter Range, at 6 Watts
+cpu0: MSR_PLATFORM_INFO: 0x40830f0810b00
+8 * 100.0 = 800.0 MHz max efficiency frequency
+11 * 100.0 = 1100.0 MHz base frequency
+cpu0: MSR_IA32_POWER_CTL: 0x08a4005f (C1E auto-promotion: ENabled)
+cpu0: MSR_TURBO_RATIO_LIMIT: 0x1c1c1c1c1c1c1c1c
+28 * 100.0 = 2800.0 MHz max turbo 8 active cores
+28 * 100.0 = 2800.0 MHz max turbo 7 active cores
+28 * 100.0 = 2800.0 MHz max turbo 6 active cores
+28 * 100.0 = 2800.0 MHz max turbo 5 active cores
+28 * 100.0 = 2800.0 MHz max turbo 4 active cores
+28 * 100.0 = 2800.0 MHz max turbo 3 active cores
+28 * 100.0 = 2800.0 MHz max turbo 2 active cores
+28 * 100.0 = 2800.0 MHz max turbo 1 active cores
+cpu0: MSR_PKG_CST_CONFIG_CONTROL: 0x74008008 (UNdemote-C1, demote-C1, locked, pkg-cstate-limit=8 (pc10))
+/dev/cpu_dma_latency: 2000000000 usec (default)
+current_driver: intel_idle
+current_governor_ro: teo
+cpu0: POLL: CPUIDLE CORE POLL IDLE
+cpu0: C1ACPI: ACPI FFH MWAIT 0x0
+cpu0: C2ACPI: ACPI FFH MWAIT 0x33
+cpu0: C3ACPI: ACPI FFH MWAIT 0x60
+cpu0: cpufreq driver: intel_pstate
+cpu0: cpufreq governor: powersave
+cpufreq intel_pstate no_turbo: 0
+cpu0: MSR_PM_ENABLE: 0x00000001 (HWP)
+cpu0: MSR_HWP_CAPABILITIES: 0x01080b1c (high 28 guar 11 eff 8 low 1)
+cpu0: MSR_HWP_REQUEST: 0x80001c08 (min 8 max 28 des 0 epp 0x80 window 0x0 pkg 0x0)
+cpu0: MSR_HWP_REQUEST_PKG: 0x8000ff01 (min 1 max 255 des 0 epp 0x80 window 0x0)
+cpu0: MSR_HWP_INTERRUPT: 0x00000000 (Dis_Guaranteed_Perf_Change, Dis_Excursion_Min)
+cpu0: MSR_HWP_STATUS: 0x00000004 (No-Guaranteed_Perf_Change, No-Excursion_Min)
+cpu0: EPB: 6 (balanced)
+cpu0: MSR_RAPL_POWER_UNIT: 0x000a0e03 (0.125000 Watts, 0.000061 Joules, 0.000977 sec.)
+cpu0: MSR_PKG_POWER_INFO: 0x00000030 (6 W TDP, RAPL 0 - 0 W, 0.000000 sec.)
+cpu0: MSR_PKG_POWER_LIMIT: 0x1806000158038 (UNlocked)
+cpu0: PKG Limit #1: ENabled (7.000000 Watts, 1.000000 sec, clamp ENabled)
+cpu0: PKG Limit #2: ENabled (12.000000 Watts, 0.000977* sec, clamp ENabled)
+cpu0: MSR_DRAM_POWER_LIMIT: 0x5400de00000000 (UNlocked)
+cpu0: DRAM Limit: DISabled (0.000000 Watts, 0.000977 sec, clamp DISabled)
+cpu0: MSR_PP0_POLICY: 0
+cpu0: MSR_PP0_POWER_LIMIT: 0x00000000 (UNlocked)
+cpu0: Cores Limit: DISabled (0.000000 Watts, 0.000977 sec, clamp DISabled)
+cpu0: MSR_PP1_POLICY: 0
+cpu0: MSR_PP1_POWER_LIMIT: 0x00000000 (UNlocked)
+cpu0: GFX Limit: DISabled (0.000000 Watts, 0.000977 sec, clamp DISabled)
+cpu0: MSR_IA32_TEMPERATURE_TARGET: 0x0f690080 (105 C)
+cpu0: MSR_IA32_PACKAGE_THERM_STATUS: 0x88460000 (35 C)
+cpu0: MSR_IA32_PACKAGE_THERM_INTERRUPT: 0x00000013 (105 C, 105 C)
+cpu0: MSR_PKGC3_IRTL: 0x00000000 (NOTvalid, 0 ns)
+cpu0: MSR_PKGC6_IRTL: 0x00000000 (NOTvalid, 0 ns)
+cpu0: MSR_PKGC7_IRTL: 0x00000000 (NOTvalid, 0 ns)
+cpu0: MSR_PKGC8_IRTL: 0x00000000 (NOTvalid, 0 ns)
+cpu0: MSR_PKGC9_IRTL: 0x00000000 (NOTvalid, 0 ns)
+cpu0: MSR_PKGC10_IRTL: 0x00000000 (NOTvalid, 0 ns)
+Node	Core	CPU	Avg_MHz	Busy%	Bzy_MHz	TSC_MHz	IRQ	SMI	POLL	C1ACPI	C2ACPI	C3ACPI	POLL%	C1ACPI%	C2ACPI%	C3ACPI%	CPU%c1	CPU%c6	CPU%c7	CoreTmp	PkgTmp	GFX%rc6	Pkg%pc2	Pkg%pc3	Pkg%pc6	Pkg%pc7	Pkg%pc8	Pkg%pc9	Pk%pc10	CPU%LPI	SYS%LPI	PkgWatt	CorWatt	GFXWatt	RAMWatt
+-	-	-	32	3.21	972	1114	1513	0	8	298	224	689	0.00	1.07	3.22	92.40	0.00	95.42	93.58	27	34	99.90	10.83	0.00	1.58	3.05	12.85	0.00	60.33	60.32	0.00	1.15	0.14	0.00	0.00
+-1	0	0	48	5.40	881	1114	1170	0	1	180	147	513	0.00	1.32	4.69	88.43	0.00	92.80	90.60	27	34	99.91	10.83	0.00	1.58	3.05	12.85	0.00	60.33	60.33	0.00	1.15	0.14	0.00	0.00
+-1	1	1	15	1.02	1453	1114	343	0	7	118	77	176	0.00	0.81	1.76	96.39	0.00	98.04	96.57	27

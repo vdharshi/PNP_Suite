@@ -1,0 +1,67 @@
+PLL OFF STATUS for USB2
+PLL OFF STATUS for GEN2
+PLL OFF STATUS for PCIe_Gen3
+PLL OFF STATUS for OPIO
+PLL OFF STATUS for OC
+PLL OFF STATUS for Main
+PLL OFF STATUS for MIPI
+PLL OFF STATUS for xtal
+PLL OFF STATUS for acro
+PLL OFF STATUS for mcro
+PLL OFF STATUS for SATA
+PLL OFF STATUS for XTAL_USB2
+PG STATUS for CSME
+PG STATUS for SATA
+PG STATUS for xHCI
+PG STATUS for UFSX2
+PG STATUS for OTG
+PG STATUS for SPA
+PG STATUS for SPB
+PG STATUS for SPC
+PG STATUS for SPD
+PG STATUS for SPE
+PG STATUS for SPF
+PG STATUS for LSX
+PG STATUS for P2SB
+PG STATUS for PSF
+PG STATUS for SBR
+PG STATUS for OPIDMI
+PG STATUS for THC0
+PG STATUS for THC1
+PG STATUS for GBETSN
+PG STATUS for GBE
+PG STATUS for LPSS
+PG STATUS for MMP_UFSX2
+PG STATUS for MMP_UFSX2B
+PG STATUS for FIA
+D3 STATUS for ADSP
+D3 STATUS for SATA
+D3 STATUS for xHCI0
+D3 STATUS for xDCI1
+D3 STATUS for SDX
+D3 STATUS for EMMC
+D3 STATUS for IS
+D3 STATUS for THC0
+D3 STATUS for THC1
+D3 STATUS for GBE
+D3 STATUS for GBE_TSN
+VNN request status for GPIO_COM0
+VNN request status for GPIO_COM1
+VNN request status for GPIO_COM2
+VNN request status for GPIO_COM3
+VNN request status for GPIO_COM4
+VNN request status for GPIO_COM5
+VNN request status for Audio
+VNN request status for ISH
+VNN request status for CNVI
+VNN request status for eSPI
+VNN request status for Display
+VNN request status for DTS
+VNN request status for SMBUS
+VNN request status for CSME
+VNN request status for SMLINK0
+VNN request status for SMLINK1
+VNN request status for CLINK
+VNN request status for DCI
+VNN request status for ITH
+VNN request status for CSME

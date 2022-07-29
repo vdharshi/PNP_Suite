@@ -1,0 +1,10 @@
+CS_001,cpuidle
+CS_004,state0,state1,state2,state3,state4,state5,state6,state7,state8
+CS_006,85
+CS_007,95
+CS_008,98
+CS_009,98
+CS_010,98
+kpm_003,1
+kpm_007,20000
+kpm_008,wakeup_sources

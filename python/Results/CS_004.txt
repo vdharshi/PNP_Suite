@@ -1,0 +1,81 @@
+CS_004_core0,FAILURE,Exp_res: ,Actual_res: state0
+,the platform don't support C-ctate sysfs entryCS_004_core0,FAILURE,Exp_res: ,Actual_res: state1
+,the platform don't support C-ctate sysfs entryCS_004_core0,FAILURE,Exp_res: ,Actual_res: state2
+,the platform don't support C-ctate sysfs entryCS_004_core0,FAILURE,Exp_res: ,Actual_res: state3
+,the platform don't support C-ctate sysfs entryCS_004_core1,FAILURE,Exp_res: ,Actual_res: state0
+,the platform don't support C-ctate sysfs entryCS_004_core1,FAILURE,Exp_res: ,Actual_res: state1
+,the platform don't support C-ctate sysfs entryCS_004_core1,FAILURE,Exp_res: ,Actual_res: state2
+,the platform don't support C-ctate sysfs entryCS_004_core1,FAILURE,Exp_res: ,Actual_res: state3
+,the platform don't support C-ctate sysfs entryCS_004_core0,FAILURE,Exp_res: ,Actual_res: state0
+,the platform don't support C-ctate sysfs entryCS_004_core0,FAILURE,Exp_res: ,Actual_res: state1
+,the platform don't support C-ctate sysfs entryCS_004_core0,FAILURE,Exp_res: ,Actual_res: state2
+,the platform don't support C-ctate sysfs entryCS_004_core0,FAILURE,Exp_res: ,Actual_res: state3
+,the platform don't support C-ctate sysfs entryCS_004_core1,FAILURE,Exp_res: ,Actual_res: state0
+,the platform don't support C-ctate sysfs entryCS_004_core1,FAILURE,Exp_res: ,Actual_res: state1
+,the platform don't support C-ctate sysfs entryCS_004_core1,FAILURE,Exp_res: ,Actual_res: state2
+,the platform don't support C-ctate sysfs entryCS_004_core1,FAILURE,Exp_res: ,Actual_res: state3
+,the platform don't support C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state0
+,Actual_res: state0
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state1
+,Actual_res: state1
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state2
+,Actual_res: state2
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state3
+,Actual_res: state3
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state0
+,Actual_res: state0
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state1
+,Actual_res: state1
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state2
+,Actual_res: state2
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state3
+,Actual_res: state3
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state0
+,Actual_res: state0
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state1
+,Actual_res: state1
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state2
+,Actual_res: state2
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state3
+,Actual_res: state3
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state0
+,Actual_res: state0
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state1
+,Actual_res: state1
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state2
+,Actual_res: state2
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state3
+,Actual_res: state3
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state0
+,Actual_res: state0
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state1
+,Actual_res: state1
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state2
+,Actual_res: state2
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state3
+,Actual_res: state3
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state0
+,Actual_res: state0
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state1
+,Actual_res: state1
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state2
+,Actual_res: state2
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state3
+,Actual_res: state3
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state0
+,Actual_res: state0
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state1
+,Actual_res: state1
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state2
+,Actual_res: state2
+,the platform supports C-ctate sysfs entryCS_004_core0,SUCCESS,Exp_res: state3
+,Actual_res: state3
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state0
+,Actual_res: state0
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state1
+,Actual_res: state1
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state2
+,Actual_res: state2
+,the platform supports C-ctate sysfs entryCS_004_core1,SUCCESS,Exp_res: state3
+,Actual_res: state3
+,the platform supports C-ctate sysfs entry
